@@ -249,5 +249,6 @@ for item in manager01.stu_list:
     print(item.name, item.age, item.score, item.id)
 """
 
+# 测试
 view = StudentManagerView()
 view.main()
