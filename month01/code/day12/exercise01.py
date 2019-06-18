@@ -24,6 +24,9 @@ class BuyingController:
 
     __list_order = []
 
+    def __init__(self):
+        pass
+
     @staticmethod
     def display_commodity():
         for key, value in commodity_info.items():
