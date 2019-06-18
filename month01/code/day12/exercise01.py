@@ -20,10 +20,9 @@ class Commodity:
         return self.price * self.amount
 
 
-class Buying:
+class BuyingController:
 
-    def __init(self):
-        pass
+    __list_order = []
 
     @staticmethod
     def display_commodity():
@@ -36,41 +35,43 @@ class Buying:
         if id in commodity_info:
             amount = int(input("输入购买数量"))
             commodity = Commodity(id, amount)
-            list_order.append(commodity)
+            BuyingController.__list_order.append(commodity)
             print("加入购物车成功")
         else:
             print("商品不存在")
 
+    @staticmethod
+    def get_list_order():
+        return BuyingController.__list_order
 
-class Settlement:
+
+class PayingController:
 
     def __init__(self):
-        pass
+        self.__list_order = BuyingController().get_list_order()
 
-    @staticmethod
-    def print_order():
-        for item in list_order:
+    def print_order(self):
+        for item in self.__list_order:
             print("商品代号", item.id, "商品名称", item.name, "商品单价", item.price,
                   "商品总价", item.calculate)
 
-    @property
     def calculate_total_money(self):
         total_money = 0
-        for item in list_order:
+        for item in self.__list_order:
             total_money += item.calculate
         return total_money
 
     def paying(self):
-        money = int(input("商品总价为%d,请输入金额:" % self.calculate_total_money))
-        if money >= self.calculate_total_money:
-            change = money - self.calculate_total_money
+        money = int(input("商品总价为%d,请输入金额:" % self.calculate_total_money()))
+        if money >= self.calculate_total_money():
+            change = money - self.calculate_total_money()
             print("支付成功,找回%d元" % change)
-            list_order.clear()
+            self.__list_order.clear()
         else:
             print("金额不足")
 
 
-class Shopping:
+class ShoppingView:
     def main(self):
         while True:
             item = input("1键购买,2键结算,3键退出")
@@ -84,15 +85,14 @@ class Shopping:
                 print("输入有误")
 
     def __buy(self):
-        buyer = Buying()
+        buyer = BuyingController()
         buyer.choose()
 
     def __pay(self):
-        settle = Settlement()
+        settle = PayingController()
         settle.print_order()
         settle.paying()
 
 
-list_order = []
-shopping = Shopping()
+shopping = ShoppingView()
 shopping.main()
