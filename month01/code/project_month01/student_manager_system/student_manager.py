@@ -144,7 +144,7 @@ class StudentManageController:
         return False
 
     def order_by_score(self):
-        for i in range(len(self.__stu_list)):
+        for i in range(len(self.__stu_list)-1):
             for j in range(i + 1, len(self.__stu_list)):
                 if self.__stu_list[i].score < self.__stu_list[j].score:
                     self.__stu_list[i], self.__stu_list[j] = self.__stu_list[j], self.__stu_list[i]
