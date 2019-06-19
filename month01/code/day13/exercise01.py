@@ -135,13 +135,16 @@ class EmployeeManager:
 
 
 class Employee:
+    def __init__(self, base_salary):
+        self.base_salary = base_salary
+
     def calculate_salary(self):
-        raise Exception
+        return self.base_salary
 
 
 class Programmer(Employee):
     def __init__(self, base_salary, bonus):
-        self.base_salary = base_salary
+        super().__init__(base_salary)
         self.bonus = bonus
 
     def calculate_salary(self):
@@ -150,7 +153,7 @@ class Programmer(Employee):
 
 class Sale(Employee):
     def __init__(self, base_salary, sale_volume):
-        self.base_salary = base_salary
+        super().__init__(base_salary)
         self.sale_volume = sale_volume
 
     def calculate_salary(self):
@@ -159,7 +162,7 @@ class Sale(Employee):
 
 manager = EmployeeManager()
 programmer = Programmer(7000, 5000)
-sale = Sale(5000, 20000)
+sale = Sale(5000, 200)
 
 manager.add_employee(programmer)
 manager.add_employee(sale)
