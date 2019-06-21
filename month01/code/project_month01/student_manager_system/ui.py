@@ -36,6 +36,14 @@ class StudentManagerView:
             self.__display_menu()
             self.__select_menu()
 
+    def __input_number(self, message, tip):
+        while True:
+            try:
+                age = int(input(message))
+                return age
+            except:
+                print(tip)
+
     def __input_students(self):
         while True:
             name_str = input("输入姓名:")
@@ -50,27 +58,16 @@ class StudentManagerView:
                     continue
             else:
                 print("姓名不能为空")
+
+        age = self.__input_number("请输入年龄", "请输入数字")
+
         while True:
-            age_str = input("输入年龄:")
-            try:
-                age = int(age_str)
-            except Exception:
-                print("请输入数字")
-                continue
-            else:
+            score = self.__input_number("请输入成绩", "请输入数字")
+
+            if 0 <= score <= 100:
                 break
-        while True:
-            score_str = input("输入成绩:")
-            try:
-                score = float(score_str)
-            except Exception:
-                print("请输入数字")
-                continue
             else:
-                if 0 <= score <= 100:
-                    break
-                else:
-                    print("超出范围")
+                print("超出范围")
 
         stu = StudentModel(name, age, score)
         self.__manager.add_student(stu)
