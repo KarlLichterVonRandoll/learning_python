@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SmoothPython/chapter01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month01/code/day16-17/exercise05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmoothPython/chapter03/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/day16-17/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/day16-17/common/list_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/day16-17/exercise06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/day18/exercise01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/day18/exercise02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/day18/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/day19/exercise01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/day19/exercise02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/day19/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/project_month01/game2048/bll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/project_month01/game2048/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/project_month01/game2048/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month01/code/project_month01/game2048/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/m1905.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/m1905.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001.py" beforeDir="false" afterPath="$PROJECT_DIR$/001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month01/code/day06/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/month01/code/day06/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month01/code/day16/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/month01/code/day16-17/exercise01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month01/code/day16/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/month01/code/day16-17/exercise02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month01/code/day16/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/month01/code/day16-17/exercise03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month01/code/day16/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/month01/code/day16-17/exercise04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month01/code/day16/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/month01/code/day16-17/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month01/code/day16-17/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/month01/code/day16-17/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month01/code/project_month01/game_2048_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/month01/code/project_month01/game_2048_core.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,32 +29,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game_2048_core.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game2048/bll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game2048/ui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game2048/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/month01/code/day16-17/note.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="268">
-                <caret line="106" column="2" selection-start-line="106" selection-start-column="2" selection-end-line="106" selection-end-column="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month01/code/day16-17/exercise05.py">
+        <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game2048/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmoothPython/chapter01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="176">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,21 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/month01/code/day12/exercise01.py" />
-        <option value="$PROJECT_DIR$/month01/code/day13/exercise02.py" />
-        <option value="$PROJECT_DIR$/month01/code/day13/exercise03.py" />
-        <option value="$PROJECT_DIR$/month01/code/day13/exercise04.py" />
-        <option value="$PROJECT_DIR$/Data_structure/oneway_list.py" />
-        <option value="$PROJECT_DIR$/Data_structure/single_linked_list.py" />
-        <option value="$PROJECT_DIR$/month01/code/day14.py" />
-        <option value="$PROJECT_DIR$/month01/code/day13/exercise01.py" />
-        <option value="$PROJECT_DIR$/month01/code/day14/exercise01.py" />
-        <option value="$PROJECT_DIR$/month01/code/day14/exercise02.py" />
-        <option value="$PROJECT_DIR$/Data_structure/SingleCycLinkedlist.py" />
-        <option value="$PROJECT_DIR$/Data_structure/doublelinklist.py" />
-        <option value="$PROJECT_DIR$/month01/code/day14/note.md" />
-        <option value="$PROJECT_DIR$/month01/code/day14/exercise03.py" />
-        <option value="$PROJECT_DIR$/month01/code/day13/note.md" />
         <option value="$PROJECT_DIR$/month01/code/day09-10/exercise04.py" />
         <option value="$PROJECT_DIR$/month01/code/day14/module01.py" />
         <option value="$PROJECT_DIR$/month01/code/day14/exercise04.py" />
@@ -121,6 +138,21 @@
         <option value="$PROJECT_DIR$/month01/code/day16/exercise05.py" />
         <option value="$PROJECT_DIR$/month01/code/day16-17/exercise05.py" />
         <option value="$PROJECT_DIR$/month01/code/day16-17/note.md" />
+        <option value="$PROJECT_DIR$/month01/code/day16-17/list_helper.py" />
+        <option value="$PROJECT_DIR$/SmoothPython/chapter03/note.md" />
+        <option value="$PROJECT_DIR$/month01/code/day18/exercise01.py" />
+        <option value="$PROJECT_DIR$/month01/code/day18/exercise02.py" />
+        <option value="$PROJECT_DIR$/month01/code/day18/note.md" />
+        <option value="$PROJECT_DIR$/month01/code/day16-17/exercise06.py" />
+        <option value="$PROJECT_DIR$/month01/code/day16-17/common/list_helper.py" />
+        <option value="$PROJECT_DIR$/month01/code/day19/exercise01.py" />
+        <option value="$PROJECT_DIR$/month01/code/day19/note.md" />
+        <option value="$PROJECT_DIR$/month01/code/day19/exercise02.py" />
+        <option value="$PROJECT_DIR$/month01/code/project_month01/game_2048_core.py" />
+        <option value="$PROJECT_DIR$/month01/code/project_month01/game2048/model.py" />
+        <option value="$PROJECT_DIR$/month01/code/project_month01/game2048/main.py" />
+        <option value="$PROJECT_DIR$/month01/code/project_month01/game2048/bll.py" />
+        <option value="$PROJECT_DIR$/month01/code/project_month01/game2048/ui.py" />
       </list>
     </option>
   </component>
@@ -162,7 +194,15 @@
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month01" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="day16-17" type="462c0819:PsiDirectoryNode" />
+              <item name="project_month01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="m1905" type="462c0819:PsiDirectoryNode" />
+              <item name="month01" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="project_month01" type="462c0819:PsiDirectoryNode" />
+              <item name="student_manager_system" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,8 +231,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise05 (1)">
-    <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="exercise01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,11 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01/code/day19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01/code/day19/exercise01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chapter01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,11 +261,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SmoothPython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01/code/day19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SmoothPython/chapter01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01/code/day19/exercise02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,11 +282,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01/code/day16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01/code/day18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01/code/day16/exercise04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01/code/day18/exercise02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise05 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,7 +307,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01/code/day16-17/exercise05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01/code/day16-17/exercise06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,11 +324,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01/code/day16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01/code/project_month01/game2048" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01/code/day16/exercise05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01/code/project_month01/game2048/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercise05 (1)" />
-        <item itemvalue="Python.exercise05" />
-        <item itemvalue="Python.chapter01" />
-        <item itemvalue="Python.001" />
-        <item itemvalue="Python.exercise04" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.exercise02 (1)" />
+        <item itemvalue="Python.exercise01 (1)" />
+        <item itemvalue="Python.exercise06" />
+        <item itemvalue="Python.exercise02" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561106100118</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2019.06.24 添加生成器表达式">
+      <created>1561346374235</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561346374235</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -409,16 +456,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1373" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16530764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16530764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" weight="0.29127517" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" visible="true" weight="0.40402684" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" visible="true" weight="0.29127517" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" weight="0.40402684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
@@ -426,7 +472,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011119" side_tool="true" weight="0.36107382" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.20536913" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3409396" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -441,124 +487,10 @@
     <MESSAGE value="2019.06.20 first commit" />
     <MESSAGE value="2019.06.21 在学生管理系统中加入异常处理" />
     <MESSAGE value="2019.06.21 second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.06.21 second commit" />
+    <MESSAGE value="2019.06.24 添加生成器表达式" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.06.24 添加生成器表达式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/month01/code/day11/exercise03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day11/exercise02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day11/exercise01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day09-10/exercise06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day11/exericse04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-430">
-          <caret line="94" column="20" lean-forward="true" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day09-10/exercise05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1704">
-          <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day09-10/exercise04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day14/exercise04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day14/module01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/shopping_oop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day14/exercise03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day15/module01.py" />
-    <entry file="file://$PROJECT_DIR$/month01/code/day15/exercise01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day15/exercise02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day15/common/double_list_helper.py" />
-    <entry file="file://$PROJECT_DIR$/month01/code/day15/skill_system/skill_data.py" />
-    <entry file="file://$PROJECT_DIR$/month01/code/day15/skill_system/skill_developer.py" />
-    <entry file="file://$PROJECT_DIR$/month01/code/day11/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="484">
-            <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day09-10/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="744">
-            <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/month01/code/day15/common/__init__.py" />
     <entry file="file://$PROJECT_DIR$/month01/code/day15/skill_system/skill_manager.py" />
     <entry file="file://$PROJECT_DIR$/month01/code/day15/common/list_helper.py" />
@@ -637,23 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/student_manager_system/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/student_manager_system/ui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/month01/code/day15/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -692,13 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1247971763/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="2883" column="8" selection-start-line="2883" selection-start-column="8" selection-end-line="2883" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -718,16 +626,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="651">
             <caret line="101" column="3" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day13/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
@@ -757,24 +655,206 @@
     <entry file="file://$PROJECT_DIR$/SmoothPython/chapter01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/month01/code/day16-17/exercise05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="612">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/list_helper.py" />
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmoothPython/chapter03/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="462">
+            <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1247971763/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="132" column="4" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/month01/code/day16-17/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="268">
-            <caret line="106" column="2" selection-start-line="106" selection-start-column="2" selection-end-line="106" selection-end-column="2" />
+          <first_editor relative-caret-position="649">
+            <caret line="137" column="27" selection-start-line="137" selection-start-column="27" selection-end-line="137" selection-end-column="27" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day18/exercise01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day18/exercise02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/exercise06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/common/list_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="139" column="34" selection-start-line="139" selection-start-column="34" selection-end-line="139" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day18/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day09-10/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day08/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2076" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day13/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1298">
+            <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day11/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="484">
+            <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day19/exercise02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day19/exercise01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day19/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/student_manager_system/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/student_manager_system/ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2662">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game_2048_core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game2048/bll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game2048/ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game2048/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/game2048/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
