@@ -120,6 +120,11 @@ class LinkList:
             p = p.next
         p.next = node
 
+    def merge_list(self, linklist_):
+        for i in range(linklist_.len()):
+            value = linklist_.index(i)
+            self.ordered_insert(value)
+
 
 
 l = [0, 1, 2, 3, 4]

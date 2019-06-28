@@ -38,14 +38,8 @@ class CycleLinkedList:
 
     # 初始化循环链表
     def init_list(self, _list):
-        if not self.is_empty():
-            return
-        p = self.head
         for item in _list:
-            node = Node(item)
-            p.next = node
-            node.next = self.head
-            p = node
+            self.append(item)
 
     # 开头添加
     def head_add(self, item):
@@ -62,15 +56,11 @@ class CycleLinkedList:
     # 末尾添加
     def append(self, item):
         node = Node(item)
-        if self.is_empty():
-            self.head.next = node
-            node.next = self.head
-        else:
-            p = self.head
-            while p.next is not self.head:
-                p = p.next
-            p.next = node
-            node.next = self.head
+        p = self.head
+        while p.next is not self.head:
+            p = p.next
+        p.next = node
+        node.next = self.head
 
     # 指定位置插入
     def insert(self, pos, item):

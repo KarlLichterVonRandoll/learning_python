@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/month01/code/day19/exercise03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/Data_structure/day01/circularlinkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/Data_structure/day01/linklist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/Data_structure/day01/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/Data_structure/day01/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.001.py.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/m1905.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/m1905.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Data_structure/day01/doublecyclelinklist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_structure/note01.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structure/note01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/client01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/server01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmoothPython/chapter01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmoothPython/chapter03/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Data_structure/day01/circularlinkedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Data_structure/day01/cyclelinklist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Data_structure/day01/linklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Data_structure/day01/linklist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Data_structure/day01/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Data_structure/day01/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/linklist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/circularlinkedlist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+            <state relative-caret-position="286">
+              <caret line="113" column="18" lean-forward="true" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -46,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="176">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -56,13 +38,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/doublecyclelinklist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="308">
-                <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+              <first_editor relative-caret-position="1430">
+                <caret line="65" selection-start-line="65" selection-end-line="65" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/cyclelinklist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1136">
+              <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -86,9 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/month01/code/day15/module01.py" />
-        <option value="$PROJECT_DIR$/month01/code/day15/exercise01.py" />
-        <option value="$PROJECT_DIR$/month01/code/day15/exercise02.py" />
         <option value="$PROJECT_DIR$/month01/code/day15/common/double_list_helper.py" />
         <option value="$PROJECT_DIR$/month01/code/day15/skill_system/skill_data.py" />
         <option value="$PROJECT_DIR$/month01/code/day15/skill_system/skill_deplover.py" />
@@ -133,10 +130,13 @@
         <option value="$PROJECT_DIR$/month01/code/day19/exercise03.py" />
         <option value="$PROJECT_DIR$/month02/code/day01/linklist.py" />
         <option value="$PROJECT_DIR$/month02/code/Data_structure/day01/note.md" />
-        <option value="$PROJECT_DIR$/month02/code/Data_structure/day01/linklist.py" />
         <option value="$PROJECT_DIR$/Data_structure/note01.md" />
-        <option value="$PROJECT_DIR$/month02/code/Data_structure/day01/test.py" />
         <option value="$PROJECT_DIR$/month02/code/Data_structure/day01/circularlinkedlist.py" />
+        <option value="$PROJECT_DIR$/month02/code/Data_structure/day01/doublelinklist.py" />
+        <option value="$PROJECT_DIR$/month02/code/Data_structure/day01/doublecyclelinklist.py" />
+        <option value="$PROJECT_DIR$/month02/code/Data_structure/day01/cyclelinklist.py" />
+        <option value="$PROJECT_DIR$/month02/code/Data_structure/day01/linklist.py" />
+        <option value="$PROJECT_DIR$/month02/code/Data_structure/day01/test.py" />
       </list>
     </option>
   </component>
@@ -435,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561542920462</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2019.06.27 commit">
+      <created>1561640241170</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561640241170</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -451,7 +458,7 @@
     <frame x="67" y="25" width="1373" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15789473" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15715344" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
@@ -483,7 +490,8 @@
     <MESSAGE value="2019.06.21 second commit" />
     <MESSAGE value="2019.06.24 添加生成器表达式" />
     <MESSAGE value="2019.06.26 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.06.26 commit" />
+    <MESSAGE value="2019.06.27 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.06.27 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -497,13 +505,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/month01/code/project_month01/student_manager_system/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/month01/code/project_month01/student_manager_system/bll.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="968">
@@ -853,17 +854,31 @@
     <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
-            <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <first_editor relative-caret-position="1430">
+            <caret line="65" selection-start-line="65" selection-end-line="65" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/cyclelinklist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/doublecyclelinklist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="176">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -872,15 +887,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/linklist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Data_structure/day01/circularlinkedlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        <state relative-caret-position="286">
+          <caret line="113" column="18" lean-forward="true" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
         </state>
       </provider>
     </entry>
