@@ -1,0 +1,9 @@
+Open source software is made better
+when users can easily contribute code and documentation to fix bugs and add features.
+Python strongly encourages community involvement in improving the software.
+Learn more about how to make Python better for everyone.
+2019.07.01
+2019.07.01
+2019.07.01
+ss
+ab
