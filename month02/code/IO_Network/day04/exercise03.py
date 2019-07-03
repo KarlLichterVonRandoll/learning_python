@@ -12,7 +12,7 @@
 
 import time
 
-with open("time.txt", "a+") as f1:
+with open("time.txt", "a") as f1:
     try:
         with open("time.txt") as f2:
             i = int(f2.readlines()[-1].split(" ")[0][:-1])
