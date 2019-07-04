@@ -119,51 +119,49 @@
 
 #### 服务端流程
 
-![](img/1_TCP_Server.png)
-***代码实现：tcp_server.py
+代码实现：tcp_server.py
 
-1. 创建套接字
+1.创建套接字
 
 ```
 sockfd=socket.socket(socket_family=AF_INET,socket_type=SOCK_STREAM,proto=0)
 功能：创建套接字
-参数：  socket_family  网络地址类型 AF_INET表示ipv4
-	socket_type  套接字类型 SOCK_STREAM(流式)  SOCK_DGRAM(数据报)
-	proto  通常为0  选择子协议
+参数：socket_family  网络地址类型 AF_INET表示ipv4
+	 socket_type  套接字类型 SOCK_STREAM(流式)  SOCK_DGRAM(数据报)
+	 proto  通常为0  选择子协议
 返回值： 套接字对象
 ```
-2. 绑定地址
 
->本地地址 ： 'localhost' , '127.0.0.1'
->网络地址 ： '172.40.91.185'
->自动获取地址： '0.0.0.0'
-
-![](img/address.png)
+2.绑定地址
 
 ```
+本地地址 ： 'localhost' , '127.0.0.1'
+网络地址 ： '172.40.91.185'
+自动获取地址： '0.0.0.0'
+
 sockfd.bind(addr)
 功能： 绑定本机网络地址
 参数： 二元元组 (ip,port)  ('0.0.0.0',8888)
 ```
 
-3. 设置监听
+3.设置监听
 
 ```
 sockfd.listen(n)
 功能 ： 将套接字设置为监听套接字，确定监听队列大小
-参数 ： 监听队列大小
+参数 ： 监听队列大小(连接客户端的数目)
 ```
 
-4. 等待处理客户端连接请求
+4.等待处理客户端连接请求
 
 ```
 connfd,addr = sockfd.accept()
 功能： 阻塞等待处理客户端请求
-返回值： connfd  客户端连接套接字
+返回值： connfd  客户端连接套接字，不同客户端的专属套接字
          addr  连接的客户端地址
 ```
 
-5. 消息收发
+5.消息收发
 
 ```
 data = connfd.recv(buffersize)
@@ -177,7 +175,7 @@ n = connfd.send(data)
 返回值： 发送的字节数
 ```
 			
-6. 关闭套接字
+6.关闭套接字
 
 ```
 sockfd.close()
