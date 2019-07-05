@@ -2,26 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fluent_python/1.data-model/vector2d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fluent_python/2.array-seq/001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/dict.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/exercise01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/exercise02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/img01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/input01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/tcpclient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/tcpserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/text01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/udpclient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/udpserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/threading/thread01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/threading/thread02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month02/code/threading/thread03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/网络模型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day01/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/broadcast_recv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/broadcast_send.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/httpserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day07/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day07/struct_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/IO_Network/day07/struct_server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month02/code/IO_Network/day05/net.md" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/IO_Network/day05/net.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month02/code/IO_Network/tcpserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/IO_Network/day05/tcpserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/IO_Network/day06/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/网络模型.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,50 +24,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/note.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day07/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               </first_editor>
-              <second_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="242">
+                <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/udpserver.py">
+        <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day07/struct_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="440">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <folding>
+                <element signature="e#99#112#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/udpclient.py">
+        <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day07/struct_client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/exercise01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/exercise02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="440">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding>
+                <element signature="e#99#112#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +82,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -98,17 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data_structure/tree/tree01.py" />
-        <option value="$PROJECT_DIR$/month02/code/Data_structure/day02/exercise02.py" />
-        <option value="$PROJECT_DIR$/month02/code/Data_structure/day03/note.md" />
-        <option value="$PROJECT_DIR$/month02/code/Data_structure/day03/squeue.py" />
-        <option value="$PROJECT_DIR$/month02/code/Data_structure/day03/btree.py" />
-        <option value="$PROJECT_DIR$/Data_structure/sort/quicksort.py" />
-        <option value="$PROJECT_DIR$/month02/code/IO/text01.txt" />
-        <option value="$PROJECT_DIR$/month02/code/IO/file01.txt" />
-        <option value="$PROJECT_DIR$/month02/code/IO/file01.py" />
-        <option value="$PROJECT_DIR$/month02/code/IO/server01.py" />
-        <option value="$PROJECT_DIR$/month02/code/IO/tcpserver.py" />
         <option value="$PROJECT_DIR$/month02/code/IO_Network/udpserver.py" />
         <option value="$PROJECT_DIR$/month02/code/IO_Network/udpclient.py" />
         <option value="$PROJECT_DIR$/Data_structure/sort/binarysearch.py" />
@@ -136,7 +123,6 @@
         <option value="$PROJECT_DIR$/month02/code/threading/thread01.py" />
         <option value="$PROJECT_DIR$/month02/code/threading/thread02.py" />
         <option value="$PROJECT_DIR$/month02/code/threading/thread03.py" />
-        <option value="$PROJECT_DIR$/网络模型.md" />
         <option value="$PROJECT_DIR$/fluent_python/1.data-model/vector2.py" />
         <option value="$PROJECT_DIR$/fluent_python/1.data-model/vector2d.py" />
         <option value="$PROJECT_DIR$/fluent_python/2.array-seq/001.py" />
@@ -148,7 +134,19 @@
         <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/udpclient.py" />
         <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/exercise02.py" />
         <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/exercise01.py" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/broadcast.py" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/broadcast_recv.py" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/broadcast_send.py" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/001.py" />
+        <option value="$PROJECT_DIR$/网络模型.md" />
         <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/note.md" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/httpserver.py" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day06/index.html" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day07/struct_client.py" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day07/student.txt" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day07/struct_server.py" />
+        <option value="$PROJECT_DIR$/month02/code/IO_Network/day07/note.md" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day01/note.md" />
       </list>
     </option>
   </component>
@@ -166,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,34 +193,18 @@
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month02" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="IO_Network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
-              <item name="m1905" type="462c0819:PsiDirectoryNode" />
-              <item name="month02" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="IO_Network" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
-              <item name="m1905" type="462c0819:PsiDirectoryNode" />
-              <item name="month02" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="IO_Network" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
+              <item name="Concur_Program" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../下载/CookBook_and_code-master/12-多线程/note.md" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -249,29 +232,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise02">
-    <configuration name="exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="m1905" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month02/code/IO_Network/day04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day04/exercise01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.struct_server">
+    <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +245,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day06/exercise02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day06/001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tcpclient" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="broadcast_recv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,7 +266,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day06/tcpclient.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day06/broadcast_recv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="udpclient" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="broadcast_send" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,7 +287,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day06/udpclient.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day06/broadcast_send.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,7 +296,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="udpserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="httpserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,7 +308,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day06/udpserver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day06/httpserver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="struct_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="m1905" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month02/code/IO_Network/day07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/IO_Network/day07/struct_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercise02" />
-        <item itemvalue="Python.exercise01" />
-        <item itemvalue="Python.udpclient" />
-        <item itemvalue="Python.udpserver" />
-        <item itemvalue="Python.tcpclient" />
+        <item itemvalue="Python.struct_server" />
+        <item itemvalue="Python.httpserver" />
+        <item itemvalue="Python.001" />
+        <item itemvalue="Python.broadcast_recv" />
+        <item itemvalue="Python.broadcast_send" />
       </list>
     </recent_temporary>
   </component>
@@ -516,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562144780225</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2019.07.04 add tcp udp">
+      <created>1562227686989</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1562227686989</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TodoView">
@@ -532,13 +522,13 @@
     <frame x="67" y="25" width="1373" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16382505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16382505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49888808" visible="true" weight="0.1932886" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" visible="true" weight="0.29932886" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" weight="0.34362417" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -552,6 +542,27 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16382505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" weight="0.29932886" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" weight="0.34362417" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011119" side_tool="true" weight="0.36107382" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.16510066" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
@@ -570,7 +581,8 @@
     <MESSAGE value="2019.07.02 add tree and sort" />
     <MESSAGE value="2019.07.02 add io 文件操作" />
     <MESSAGE value="2019.07.03 add network" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.07.03 add network" />
+    <MESSAGE value="2019.07.04 add tcp udp" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.07.04 add tcp udp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -584,59 +596,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OOP/OOP03.py" />
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day04/new_file01.txt" />
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day04/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="107">
-            <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/buffer.txt" />
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/hole.txt" />
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/time.txt" />
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/holefile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/seek.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/buffer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/timelog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../下载/CookBook_and_code-master/16-net编程/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1734">
-            <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../桌面/IO网络编程/img/1_三次握手.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -662,24 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../下载/CookBook_and_code-master/12-多线程/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1254" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网络模型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../下载/CookBook_and_code-master/12-多线程/note.md" />
     <entry file="file://$PROJECT_DIR$/month02/code/threading/thread03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
@@ -717,46 +659,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day11/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-238" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day08/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2094" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day09-10/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1962" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day13/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1448" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day14/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day11/note.md" />
+    <entry file="file://$PROJECT_DIR$/month01/code/day08/note.md" />
+    <entry file="file://$PROJECT_DIR$/month01/code/day09-10/note.md" />
+    <entry file="file://$PROJECT_DIR$/month01/code/day13/note.md" />
+    <entry file="file://$PROJECT_DIR$/month01/code/day14/note.md" />
     <entry file="file://$PROJECT_DIR$/fluent_python/1.data-model/vector2d.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -764,26 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/net.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2145">
-            <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/note.md" />
     <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/input01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -791,22 +679,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/text02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/text02.txt" />
     <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/img01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/file02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/img02">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/file02.jpg" />
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/img02" />
     <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/tcpclient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -814,9 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/img02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/img02.jpg" />
     <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/tcpclient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -831,16 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/udpclient.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/udpclient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/dict.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -848,20 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/tcpserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/udpserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -895,18 +747,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/exercise01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="264">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/udpclient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/001.py" />
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/broadcast_recv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/udpserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/broadcast_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/net.md" />
+    <entry file="file://$PROJECT_DIR$/网络模型.md" />
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/note.md" />
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/httpserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/tcpserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/udpclient.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/udpserver.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day07/student.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day07/struct_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="e#99#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day07/struct_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="e#99#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day07/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           </first_editor>
-          <second_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
