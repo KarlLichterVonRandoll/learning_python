@@ -16,3 +16,13 @@ print(tokyo.coordinates)
 print(tokyo[1])
 
 # 具名元组的属性和方法
+print(City._fields)
+
+Latlong = namedtuple('Latlong', 'lat long')
+delhi_data = ('Delhi NCR', 'IN', 21.935, Latlong(28.6357, 77.20899))
+
+delhi = City._make(delhi_data)
+print(delhi._asdict())
+
+for key, value in delhi._asdict().items():
+    print(key + ':', value)
