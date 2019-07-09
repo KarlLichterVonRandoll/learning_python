@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fluent_python/2.array_seq/note.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fluent_python/array_seq01/namedtuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/fluent_python/2.array_seq/namedtuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fluent_python/array_seq01/note01.md" beforeDir="false" afterPath="$PROJECT_DIR$/fluent_python/2.array_seq/note01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fluent_python/data_model02/pokercard.py" beforeDir="false" afterPath="$PROJECT_DIR$/fluent_python/1.data_model/pokercard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fluent_python/data_model02/vector2d.py" beforeDir="false" afterPath="$PROJECT_DIR$/fluent_python/1.data_model/vector2d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fluent_python/2.array_seq/namedtuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/fluent_python/2.array_seq/namedtuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fluent_python/2.array_seq/note.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fluent_python/2.array_seq/note01.md" beforeDir="false" afterPath="$PROJECT_DIR$/fluent_python/2.array_seq/note01.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,23 +15,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/note01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="308">
-                <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <first_editor relative-caret-position="324">
+                <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/note.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -58,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day01/fork02.py" />
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day01/exit.py" />
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day01/get_pid.py" />
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day01/zongzi.py" />
@@ -107,8 +95,9 @@
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/dead_lock.py" />
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/exercise01.py" />
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/exercise02.py" />
-        <option value="$PROJECT_DIR$/fluent_python/2.array_seq/note01.md" />
         <option value="$PROJECT_DIR$/fluent_python/2.array_seq/note.ipynb" />
+        <option value="$PROJECT_DIR$/fluent_python/2.array_seq/namedtuple.py" />
+        <option value="$PROJECT_DIR$/fluent_python/2.array_seq/note01.md" />
       </list>
     </option>
   </component>
@@ -528,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562670091883</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2019.07.09 add">
+      <created>1562673217242</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1562673217242</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -611,7 +607,8 @@
     <MESSAGE value="2019.07.05 add concur programming" />
     <MESSAGE value="2019.07.09 add 聊天室" />
     <MESSAGE value="2019.07.09 add 多线程" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.07.09 add 多线程" />
+    <MESSAGE value="2019.07.09 add" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.07.09 add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -625,16 +622,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/chat_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-          <folding>
-            <element signature="e#60#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/chat_server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-66">
@@ -781,13 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/namedtuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -939,20 +919,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/note01.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
-            <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/note.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1247971763/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3333">
+          <caret line="5149" column="8" selection-start-line="5149" selection-start-column="8" selection-end-line="5149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/namedtuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/note01.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
