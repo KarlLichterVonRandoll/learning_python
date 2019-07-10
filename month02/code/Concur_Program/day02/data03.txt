@@ -1,0 +1,5 @@
+ince short strings are interned by the interpreter) and make startup time faster.
+Locale coercion is silent by default, but to assist in debugging potentially locale related integration problems,
+explicit warnings (emitted directly on stderr) can be requested by setting PYTHONCOERCECLOCALE=warn.
+This setting will also cause the Python runtime to emit a warning if the legacy C locale remains
+active when the core interpreter is initialized.
