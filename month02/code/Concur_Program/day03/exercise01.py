@@ -14,26 +14,17 @@ def count(x, y):
         c += 1
 
 
-# IO
-# def io():
-#     pass
-#
-#
-# def write():
-#     with open("text.txt", "w") as f
-
 start = time.time()
 
 # 单进程实现
 for i in range(10):
     count(1, 2)
 
-print(time.time()-start)
+print(time.time() - start)
 
-
-start = time.time()
 # 多线程实现
 jobs = []
+start = time.time()
 for i in range(10):
     t = Thread(target=count, args=(1, 2))
     jobs.append(t)
@@ -41,6 +32,5 @@ for i in range(10):
 
 for i in jobs:
     i.join()
-
 
 print(time.time() - start)

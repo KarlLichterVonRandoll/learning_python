@@ -6,7 +6,7 @@ def client_func():
 
     sockfd.connect(("127.0.0.1", 8887))
 
-    f = open("img01.jpg", "rb")
+    f = open("img.jpg", "rb")
     while True:
         data = f.read(1024)
         if not data:
