@@ -45,6 +45,7 @@ class FTPserver(Thread):
             request = self.connfd.recv(1024).decode()
             if not request or request == "quit":
                 return  # run 结束对应客户端线程结束
+                # self.do_quit()
             elif request == "v":
                 self.do_view()
             elif request[0] == "g":
@@ -54,6 +55,7 @@ class FTPserver(Thread):
                 filename = request.strip().split(" ")[-1]
                 self.do_upload(filename)
 
+    # 处理文件列表请求
     def do_view(self):
         # 获取文件列表
         files = os.listdir(FTP)
@@ -70,6 +72,7 @@ class FTPserver(Thread):
                 filelist += file + "\n"
         self.connfd.send(filelist.encode())
 
+    # 处理下载文件请求
     def do_download(self, filename):
         try:
             f = open(FTP + filename, "rb")
@@ -88,6 +91,7 @@ class FTPserver(Thread):
                 break
             self.connfd.send(data)
 
+    # 处理上传文件请求
     def do_upload(self, filename):
         if filename in os.listdir(FTP):
             self.connfd.send("文件已经存在".encode())
@@ -103,8 +107,10 @@ class FTPserver(Thread):
             f.write(data)
         f.close()
 
+    # 处理客户端退出请求
     def do_quit(self):
-        sys.exit("")
+        sys.exit("退出")
+        # os._exit(0) 会连带服务器一起退出
 
 
 if __name__ == "__main__":

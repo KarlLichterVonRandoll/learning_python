@@ -285,7 +285,9 @@ bisect.insort(a, item)
 ### 内存视图 memoryview
 * memoryview 是一个内置类,它能让用户在不复制内容的情况下操作同一个数组的不同切片。
 
-haha
+* memoryview.cast 的概念跟数组模块类似,能用不同的方式读写同一块内存数据,而且内容字节不会随意移动。
+memoryview.cast 会把同一块内存里的内容打包成一个全新的 memoryview 对象.
+
 
 
 

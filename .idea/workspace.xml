@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="2019.07.10">
-      <change afterPath="$PROJECT_DIR$/fluent_python/2.array_seq/array02.py" afterDir="false" />
+    <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="2019.07.11 array.array">
+      <change afterPath="$PROJECT_DIR$/TinyProject/char_picture/ascii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TinyProject/char_picture/doramon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TinyProject/char_picture/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TinyProject/char_picture/reba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TinyProject/char_picture/sheep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TinyProject/char_picture/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fluent_python/2.array_seq/memoryview01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day05/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day05/block_io.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day05/epoll_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day05/poll_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day05/select_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day05/select_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/gevent_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/gevent_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/greelet_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0_epoll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/static/RE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/static/concurrent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/static/data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/static/pythonNet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/MySQL/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/RE/day01/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/RE/day01/exc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/RE/day01/exec01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/RE/day01/exercise01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/RE/day01/flags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/RE/day01/re01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/RE/day01/regex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/RE/day01/regex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month02/code/RE/day01/regex03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fluent_python/2.array_seq/floats.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fluent_python/2.array_seq/note01.md" beforeDir="false" afterPath="$PROJECT_DIR$/fluent_python/2.array_seq/note01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpclient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/IO_Network/day06/httpserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/httpserver1.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/IO_Network/day06/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/Note.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,63 +52,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/note01.md">
+        <entry file="file://$PROJECT_DIR$/month02/code/MySQL/Note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="483">
-                <caret line="286" selection-start-line="286" selection-end-line="286" />
+              <first_editor relative-caret-position="426">
+                <caret line="106" column="7" lean-forward="true" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/array01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/array02.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/bisect_insort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/bisect01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/bisect02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -97,33 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day02/data02.txt" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day02/data.txt" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day02/exercise01.py" />
-        <option value="$PROJECT_DIR$/fluent_python/2.array-seq/note.md" />
-        <option value="$PROJECT_DIR$/month02/code/threading/note.md" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/note.md" />
-        <option value="$PROJECT_DIR$/fluent_python/array_seq/note.md" />
-        <option value="$PROJECT_DIR$/fluent_python/data_model/note01.md" />
-        <option value="$PROJECT_DIR$/fluent_python/array_seq/001.py" />
-        <option value="$PROJECT_DIR$/fluent_python/array_seq/namedtuple.py" />
-        <option value="$PROJECT_DIR$/fluent_python/array_seq/note01.md" />
-        <option value="$PROJECT_DIR$/fluent_python/array_seq/tuple.md" />
-        <option value="$PROJECT_DIR$/fluent_python/array_seq01/namedtuple.py" />
-        <option value="$PROJECT_DIR$/fluent_python/array_seq01/note01.md" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day01/note.md" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/pipe.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/queue.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/queue_0.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/value.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/array.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/sem.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread01.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread02.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_attr.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/myThread.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_event.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_lock.py" />
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/exercise02.py" />
         <option value="$PROJECT_DIR$/fluent_python/2.array_seq/note.ipynb" />
         <option value="$PROJECT_DIR$/fluent_python/2.array_seq/namedtuple.py" />
@@ -140,14 +99,41 @@
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day04/Note.md" />
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day04/server_file/text01.txt" />
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day04/server_file/ftpclient.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpclient.py" />
-        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpserver.py" />
         <option value="$PROJECT_DIR$/month02/code/Concur_Program/day04/file01.txt" />
         <option value="$PROJECT_DIR$/fluent_python/2.array_seq/bisect02.py" />
         <option value="$PROJECT_DIR$/fluent_python/2.array_seq/bisect_insort.py" />
         <option value="$PROJECT_DIR$/fluent_python/2.array_seq/array01.py" />
         <option value="$PROJECT_DIR$/fluent_python/2.array_seq/array02.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpclient.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpserver.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day05/block_io.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day05/select_server.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day05/select_client.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day05/poll_server.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day05/epoll_server.py" />
         <option value="$PROJECT_DIR$/fluent_python/2.array_seq/note01.md" />
+        <option value="$PROJECT_DIR$/fluent_python/2.array_seq/memoryview01.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day05/Note.md" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day06/greelet_0.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day06/gevent_server.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day06/gevent_test.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day06/Note.md" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day06/http_server.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0_epoll.py" />
+        <option value="$PROJECT_DIR$/TinyProject/char_picture/ascii.py" />
+        <option value="$PROJECT_DIR$/month02/code/RE/day01/re01.py" />
+        <option value="$PROJECT_DIR$/month02/code/RE/day01/regex.py" />
+        <option value="$PROJECT_DIR$/month02/code/RE/day01/Note.md" />
+        <option value="$PROJECT_DIR$/month02/code/RE/day01/regex02.py" />
+        <option value="$PROJECT_DIR$/month02/code/RE/day01/regex03.py" />
+        <option value="$PROJECT_DIR$/month02/code/RE/day01/flags.py" />
+        <option value="$PROJECT_DIR$/month02/code/RE/day01/exercise01.py" />
+        <option value="$PROJECT_DIR$/month02/code/RE/day01/exec01.py" />
+        <option value="$PROJECT_DIR$/TinyProject/char_picture/argparse_test.py" />
+        <option value="$PROJECT_DIR$/TinyProject/char_picture/test01.py" />
+        <option value="$PROJECT_DIR$/TinyProject/char_picture/readme.md" />
+        <option value="$PROJECT_DIR$/month02/code/MySQL/Note.md" />
       </list>
     </option>
   </component>
@@ -165,7 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,17 +161,6 @@
             <path>
               <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
-              <item name="fluent_python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
-              <item name="m1905" type="462c0819:PsiDirectoryNode" />
-              <item name="fluent_python" type="462c0819:PsiDirectoryNode" />
-              <item name="2.array_seq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
-              <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -194,26 +168,12 @@
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month02" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
-              <item name="m1905" type="462c0819:PsiDirectoryNode" />
-              <item name="month02" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="Concur_Program" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
-              <item name="m1905" type="462c0819:PsiDirectoryNode" />
-              <item name="month02" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="Concur_Program" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,19 +182,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/month02/code/Concur_Program/day04/server_file" />
-      <recent name="$PROJECT_DIR$/month02/code/Concur_Program/day04" />
-      <recent name="$PROJECT_DIR$/month02/code/Concur_Program/day02" />
-      <recent name="$PROJECT_DIR$/month02/code/Concur_Program/day01/picture" />
-      <recent name="$PROJECT_DIR$/month02/code/IO_Network/day06" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/month02/code/Concur_Program/day04" />
       <recent name="$PROJECT_DIR$/month02/code/IO_Network/day05" />
       <recent name="$PROJECT_DIR$/month02/code/IO_Network/day04" />
       <recent name="$PROJECT_DIR$/month02/code/Data_structure" />
       <recent name="$PROJECT_DIR$/month02/code" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TinyProject/char_picture" />
+      <recent name="$PROJECT_DIR$/month02/code/RE/day01" />
+      <recent name="$PROJECT_DIR$/month02/code/Concur_Program/day06/static" />
+      <recent name="$PROJECT_DIR$/month02/code/Concur_Program/day04/server_file" />
+      <recent name="$PROJECT_DIR$/month02/code/Concur_Program/day04" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.array02">
+  <component name="RunManager" selected="Python.test01">
     <configuration name="m1905" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,7 +227,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="array01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exec01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fluent_python/2.array_seq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month02/code/RE/day01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fluent_python/2.array_seq/array01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/RE/day01/exec01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,11 +256,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fluent_python/2.array_seq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month02/code/RE/day01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fluent_python/2.array_seq/array02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/RE/day01/exercise01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bisect02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="flags" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,11 +277,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fluent_python/2.array_seq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month02/code/RE/day01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fluent_python/2.array_seq/bisect02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/RE/day01/flags.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bisect_insort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="regex02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,11 +298,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fluent_python/2.array_seq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month02/code/RE/day01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fluent_python/2.array_seq/bisect_insort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/RE/day01/regex02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ftpserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -359,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month02/code/Concur_Program/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TinyProject/char_picture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpserver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TinyProject/char_picture/test01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.array02" />
-        <item itemvalue="Python.array01" />
-        <item itemvalue="Python.bisect_insort" />
-        <item itemvalue="Python.bisect02" />
-        <item itemvalue="Python.ftpserver" />
+        <item itemvalue="Python.test01" />
+        <item itemvalue="Python.exec01" />
+        <item itemvalue="Python.exercise01" />
+        <item itemvalue="Python.regex02" />
+        <item itemvalue="Python.flags" />
       </list>
     </recent_temporary>
   </component>
@@ -603,7 +563,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562758856517</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2019.07.11 array.array">
+      <created>1562805795043</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1562805795043</updated>
+    </task>
+    <task id="LOCAL-00032" summary="2019.07.11 array.array">
+      <created>1562806296167</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1562806296167</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TodoView">
@@ -619,13 +593,13 @@
     <frame x="67" y="25" width="1373" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19866568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14899926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" weight="0.29932886" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" visible="true" weight="0.29932886" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" weight="0.34362417" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -640,13 +614,13 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16382505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1682728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" weight="0.29932886" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49888808" visible="true" weight="0.29932886" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" weight="0.34362417" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -665,7 +639,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
     <MESSAGE value="2019.06.18 first commit" />
     <MESSAGE value="2019.06.18 second commit" />
     <MESSAGE value="2019.06.19 first commit" />
@@ -690,7 +663,8 @@
     <MESSAGE value="2019.07.09 add  元组 += *=" />
     <MESSAGE value="2019.07.10 add  并发网络通信模型" />
     <MESSAGE value="2019.07.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.07.10" />
+    <MESSAGE value="2019.07.11 array.array" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.07.11 array.array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -704,295 +678,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/month02/code/threading/note.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/thread02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="e#22#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-166">
-          <caret line="737" column="6" selection-start-line="737" selection-start-column="6" selection-end-line="737" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/thread01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding>
-            <element signature="e#72#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_lock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_attr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="e#20#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/exercise02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/note.ipynb" />
-    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1247971763/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3333">
-          <caret line="5149" column="8" selection-start-line="5149" selection-start-column="8" selection-end-line="5149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/namedtuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="e#40#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/sem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="e#43#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/myThread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="e#20#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_event.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../下载/CookBook_and_code-master/12-多线程/note.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1122" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/exercise01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <element signature="e#25#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/dead_lock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#16#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/img02.jpg" />
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/img03.jpg" />
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/exercise01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <element signature="e#60#95#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/copy_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="e#46#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/tcpserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/tcpclient.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/note01.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2706" />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="6336">
-            <caret line="288" selection-start-line="288" selection-end-line="288" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/server_file/text01.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day04/note.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3369" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/text0.txt" />
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/threading_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-          <folding>
-            <element signature="e#150#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/server_file/tcpclient.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day05/note.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-990" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/text01.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/server_file/img.jpg" />
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/img.jpg" />
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/img01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/server_file/img01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/server_file/file01.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/tcpclient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/process_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
-          <folding>
-            <element signature="e#158#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/fork_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-388">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="e#152#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/file01.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1628">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="9" />
-          <folding>
-            <element signature="e#23#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpclient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="539">
+          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
           <folding>
             <element signature="e#26#46#0" expanded="true" />
+            <element signature="e#309#563#0" />
+            <element signature="e#600#1036#0" />
+            <element signature="e#1071#1573#0" />
+            <element signature="e#1606#1697#0" />
           </folding>
         </state>
       </provider>
@@ -1000,7 +695,7 @@
     <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/Note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1474">
+          <first_editor relative-caret-position="349">
             <caret line="91" column="13" lean-forward="true" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
           </first_editor>
           <second_editor />
@@ -1012,53 +707,378 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day05/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/tcpclient.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day05/poll_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="e#109#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1247971763/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day05/block_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#29#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="175">
+            <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1247971763/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="3850" column="8" selection-start-line="3850" selection-start-column="8" selection-end-line="3850" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/note01.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="483">
-            <caret line="286" selection-start-line="286" selection-end-line="286" />
+          <first_editor relative-caret-position="153">
+            <caret line="289" lean-forward="true" selection-start-line="289" selection-end-line="289" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/array01.py">
+    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/memoryview01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="22">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/greelet_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/array02.py">
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/gevent_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#25#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day05/select_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/gevent_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#114#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/ftpserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1787">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="e#23#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/copy_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/fork_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#152#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/process_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="e#158#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day04/threading_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <element signature="e#150#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_event.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/bisect_insort.py">
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/myThread.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/static/concurrent.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="-4686" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/static/pythonNet.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/static/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/static/data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7062" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/static/RE.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/IO_Network/day06/httpserver1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day05/select_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#112#137#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/bisect01.py">
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day05/Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2856">
+            <caret line="182" selection-start-line="182" selection-end-line="182" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0_epoll.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+        <state relative-caret-position="1254">
+          <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/bisect02.py">
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day05/epoll_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="990">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding>
+            <element signature="e#102#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="127" column="19" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day06/Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="679">
+            <caret line="103" column="13" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/re01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/regex01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2984">
+          <caret line="230" column="4" selection-start-line="230" selection-start-column="4" selection-end-line="230" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/flags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="39" column="15" lean-forward="true" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/regex02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/regex03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/exc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/exercise01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/exec01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-770">
+            <caret line="211" column="26" lean-forward="true" selection-start-line="211" selection-start-column="26" selection-end-line="211" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/argparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="1315" column="8" selection-start-line="1315" selection-start-column="8" selection-end-line="1315" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TinyProject/char_picture/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-803" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TinyProject/char_picture/ascii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1158">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TinyProject/char_picture/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TinyProject/char_picture/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="426">
+            <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/MySQL/Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="426">
+            <caret line="106" column="7" lean-forward="true" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

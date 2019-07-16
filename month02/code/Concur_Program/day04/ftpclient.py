@@ -19,6 +19,7 @@ class FTPclient:
     def __init__(self, sockfd):
         self.sockfd = sockfd
 
+    # 查看文件列表
     def do_view(self):
         self.sockfd.send(b"v")  # 发送请求
         # 等待回复
@@ -30,6 +31,7 @@ class FTPclient:
         else:
             print(data)
 
+    # 下载文件
     def do_download(self):
         filename = input("输入下载文件名:")
         self.sockfd.send(("g " + filename).encode())
@@ -46,12 +48,18 @@ class FTPclient:
         else:
             print(data)
 
+    # 上传文件
     def do_upload(self):
-        file_name = input("输入需要上传的文件名:")
+        file_name = input("输入需要上传的文件名或路径:")
+        try:
+            f = open(file_name, "rb")
+        except Exception:
+            print("文件不存在")
+            return
+        file_name = file_name.split("/")[-1]
         self.sockfd.send(("u " + file_name).encode())
         data = self.sockfd.recv(1024).decode()
         if data == "OK":
-            f = open(file_name, "rb")
             while True:
                 data = f.read(1024)
                 if not data:
@@ -63,6 +71,7 @@ class FTPclient:
         else:
             print(data)
 
+    # 退出客户端
     def do_quit(self):
         self.sockfd.send(b"quit")
         self.sockfd.close()
