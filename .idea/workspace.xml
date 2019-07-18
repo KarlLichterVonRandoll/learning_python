@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/month02/code/Git/Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Git/Note.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/month02/code/Git/Note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2031">
-                <caret line="249" column="43" lean-forward="true" selection-start-line="249" selection-start-column="43" selection-end-line="249" selection-end-column="43" />
+              <first_editor relative-caret-position="425">
+                <caret line="350" lean-forward="true" selection-start-line="350" selection-end-line="350" />
               </first_editor>
               <second_editor />
             </state>
@@ -1047,8 +1046,8 @@
     <entry file="file://$PROJECT_DIR$/month02/code/Git/Note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2031">
-            <caret line="249" column="43" lean-forward="true" selection-start-line="249" selection-start-column="43" selection-end-line="249" selection-end-column="43" />
+          <first_editor relative-caret-position="425">
+            <caret line="350" lean-forward="true" selection-start-line="350" selection-end-line="350" />
           </first_editor>
           <second_editor />
         </state>

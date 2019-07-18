@@ -248,3 +248,103 @@ git tag v1.0 -m '版本1'
 > git branch -D [branch]  删除没有被合并的分支
 
 ![分支合并](/home/tarena/桌面/项目综合/img/merge.png)
+
+### 远程仓库
+
+> 远程主机上的git仓库。实际上git是分布式结构，每台主机的git仓库结构类似，只是把别人主机上的git仓库称为远程仓库。
+
+### GitHub介绍
+
+>github是一个开源的项目社区网站，拥有全球最多的开源项目。开发者可以注册网站在github建立自己的项目仓库。
+
+>网址： github.com
+
+>代码管理工具：git
+
+### 获取项目
+
+* 在左上角搜索栏搜索想要的获取的项目
+
+![](/home/tarena/桌面/项目综合/img/1.png)
+
+* 选择项目后复制项目git地址
+
+![](/home/tarena/桌面/项目综合/img/2.png)
+
+* 在本地使用git clone方法即可获取
+
+```
+git clone https://github.com/xxxxxxxxx
+```
+
+> 注意： 获取到本地的项目会自动和github远程仓库建立连接。且获取的项目本身也是个git项目。
+
+### 创建git仓库
+
+* 点击右上角加号下拉菜单，选择新的仓库
+
+![](/home/tarena/桌面/项目综合/img/4.png)
+
+* 填写相应的项目信息即可
+
+* github仓库相对本地主机就是一个远程仓库 通过remote连接，如果需要输入密码输   入github密码即可。连接后即可使用远程仓库操作命令操作。readme文件会被自动作为项目介绍
+  
+* 如果是在即的仓库在仓库界面选择settings，在最后可以选择删除仓库
+
+![](/home/tarena/桌面/项目综合/img/5.jpg)
+![](/home/tarena/桌面/项目综合/img/6.jpg)
+  
+
+### 远程仓库操作命令
+
+所有操作在本地git仓库下进行
+
+1. 添加远程仓库
+
+```
+git remote  add origin https://github.com/xxxxxxxxx
+```
+
+2. 删除远程主机
+
+>git remote rm [origin]
+
+3. 查看连接的主机
+
+>git remote
+>注意: 一个git项目连接的远程主机名不会重复
+
+4. 将本地分支推送给远程仓库
+
+```
+将master分支推送给origin主机远程仓库，第一次推送分支使用-u表示与远程对应分支建立自动关联
+git push -u origin  master
+```
+
+5. 删除远程分支
+
+> git branch -a  查看所有分支
+> git push origin  [:branch]  删除远程分支
+
+6. 其他推送方法
+
+> git push --force origin  用于本地版本比远程版本旧时强行推送本地版本
+
+> git push origin [tag]  推送本地标签到远程
+
+> git push origin --tags  推送本地所有标签到远程
+
+> git push origin --delete tag  [tagname]  删除远程仓库标签
+
+
+7. 从远程获取代码
+
+> git pull 
+
+> 将远程分支master拉取到本地，作为tmp分支
+> git fetch origin  master:tmp  
+
+> 区别
+>> pull将远程内容直接拉取到本地，并和对应分支内容进行合并
+>> fetch将远程分支内容拉取到本地，但是不会和本地对应分支合并，可以自己判断后再使用merge合并。
+
