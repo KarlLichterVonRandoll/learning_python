@@ -31,7 +31,7 @@ def do_search(name):
 
 
 def do_history(name):
-    msg = "H %s" % (name)
+    msg = "H %s" % name
     s.send(msg.encode())
     data = s.recv(2048).decode()
     print(data)

@@ -89,7 +89,7 @@ class Database:
             self.db.rollback()
 
     def history(self, name):
-        sql = "select word,time from history where name=%s;"
+        sql = "select word,time from history where name=%s order by time desc limit 10;"
         self.cur.execute(sql, [name])
         r = self.cur.fetchall()
 
