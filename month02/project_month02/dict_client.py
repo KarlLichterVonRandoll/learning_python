@@ -3,7 +3,6 @@
     功能：根据用户输入发送请求，得到结果
          一级：注册、登录、退出
          二级：查单词、历史记录、注销
-
 """
 
 from socket import *
@@ -13,6 +12,10 @@ import sys, getpass
 HOST = "127.0.0.1"
 PORT = 8888
 ADDR = (HOST, PORT)
+
+# tcp 套接字
+s = socket()
+s.connect(ADDR)
 
 
 # 查单词处理函数
@@ -27,8 +30,11 @@ def do_search(name):
         print(data)
 
 
-def do_history():
-    pass
+def do_history(name):
+    msg = "H %s" % (name)
+    s.send(msg.encode())
+    data = s.recv(2048).decode()
+    print(data)
 
 
 # 二级界面, 登陆后的状态
@@ -43,16 +49,11 @@ def logined(name):
         if cmd == "1":
             do_search(name)
         elif cmd == "2":
-            do_history()
+            do_history(name)
         elif cmd == "3":
             break
         else:
             print("请输入正确选项")
-
-
-# tcp 套接字
-s = socket()
-s.connect(ADDR)
 
 
 # 处理注册函数

@@ -1,9 +1,7 @@
 """
     dict 服务端
-
     功能： 业务逻辑处理
     模型： 多进程 tcp 并发
-
 """
 
 from socket import *
@@ -36,6 +34,25 @@ def do_search(c, data):
         c.send(msg.encode())
 
 
+# 查看历史记录处理
+def do_history(c, data):
+    tmp = data.split(" ")
+    name = tmp[1]
+    hist = db.history(name)
+
+    if not hist:
+        c.send("没有历史记录".encode())
+    else:
+        hist_new = sorted(hist, key=lambda s: s[1], reverse=True)[:10]
+        msg = ""
+        for h in hist_new:
+            msg += h[0]
+            msg += ": "
+            msg += str(h[1])
+            msg += "\n"
+        c.send(msg.strip().encode())
+
+
 # 服务端注册处理
 def do_register(c, data):
     tmp = data.split(" ")
@@ -62,18 +79,21 @@ def do_login(c, data):
 
 # 处理客户端请求
 def request(c):
-    db.create_cursor()
+    db.create_cursor()  # 每个子进程单独生成游标
+    # 循环接收请求
     while True:
         data = c.recv(1024).decode()
         print(c.getpeername(), ":", data)
         if not data or data[0] == "E":
-            sys.exit()
+            sys.exit()  # 对应子进程退出
         elif data[0] == "R":
-            do_register(c, data)
+            do_register(c, data)  # 处理注册
         elif data[0] == "L":
-            do_login(c, data)
+            do_login(c, data)  # 处理登录
         elif data[0] == "S":
-            do_search(c, data)
+            do_search(c, data)  # 处理查找单词
+        elif data[0] == "H":
+            do_history(c, data)
 
 
 # 创建服务端并发网络

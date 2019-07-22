@@ -87,3 +87,11 @@ class Database:
             self.db.commit()
         except Exception:
             self.db.rollback()
+
+    def history(self, name):
+        sql = "select word,time from history where name=%s;"
+        self.cur.execute(sql, [name])
+        r = self.cur.fetchall()
+
+        if r:
+            return r
