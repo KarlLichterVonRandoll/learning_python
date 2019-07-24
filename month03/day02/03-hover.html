@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .box{
+            width:260px;
+            background-color:black;
+            color:#fff;
+            text-align:center;
+        }
+        .box:hover{
+            background-color:red;
+        }
+
+        #name:focus{
+            background-color:gray;
+        }
+
+        a:link{
+            color:green;
+            background-color:blue;
+        }
+        a:visited{
+            color:purple;
+            background-color:red;
+        }
+        a:hover{
+            color:red;
+        }
+        a:active{
+            color:blue;
+        }
+    </style>
+</head>
+<body>
+    <!--有一个div元素，默认一个背景色，移动上后变成另一个颜色-->
+    <div class="box">
+        百度
+    </div>
+    <form action="#">
+        <label for="name">姓名</label>
+        <input type="text"
+               id="name"
+               name="name">
+    </form>
+    <a href="https://www.baidu.com" target="_blan">百度</a>
+</body>
+</html>
