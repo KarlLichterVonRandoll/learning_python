@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #instr{
+            width: 520px;
+            height: 404px;
+            margin: 0 auto;
+            background-color: #d4cbc6;
+            text-align: center;
+            padding: 10px 0 0 0;
+        }
+        #instr>div:nth-child(1){
+            width: 146px;
+            height: 146px;
+            border: solid 4px #fff;
+            border-radius: 50%;
+            margin: 20px auto;
+            box-shadow: 2px 2px 5px #666;
+        }
+        #instr>div:nth-child(2){
+            margin: 10px 0;
+        }
+        #instr>div:nth-child(1)>img{
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            border-radius: 50%;
+        }
+        .buttons>input{
+            width: 140px;
+            height: 40px;
+            border: none;
+            margin: 10px 5px;
+        }
+        #instr>div{
+            margin: 5px 0;
+        }
+        .buttons>input:nth-child(1){
+            background-color: blue;
+        }
+        .buttons>input:nth-child(2){
+            background-color: green;
+        }
+        .buttons>input:nth-child(3){
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <div id="instr">
+        <div>
+            <img src="../imgs/img02.png" alt="err">
+        </div>
+        <div><h3>budinger</h3></div>
+        <div>Web前端工程师</div>
+        <div>男，北京</div>
+        <div>这家伙很懒，什么都没留下</div>
+        <div class="buttons">
+            <input type="button" value="访问主页">
+            <input type="button" value="发消息">
+            <input type="button" value="删除好友">
+        </div>
+    </div>
+</body>
+</html>

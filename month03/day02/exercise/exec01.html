@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #reg{
+            width:345px;
+            font-size:12px;
+
+        }
+        label{
+            display:inline-block;
+            width:88px;
+            border:solid 0px red;
+            text-align:right;
+        }
+        .h{
+            height:100px;
+        }
+        .bth{
+            width:180px;
+            background-color:green;
+            color:white;
+            padding:13px;
+            outline:none;
+            border:0px;
+            border-radius:3px;
+        }
+        div{
+            margin:18px 0px;
+        }
+        .pd{
+            padding:8px;
+        }
+    </style>
+</head>
+<body>
+    <div id="reg">
+        <form>
+            <div>
+                <label for="email">*邮箱地址:</label>
+                <input type="text"
+                       id="email"
+                       name="email"
+                       class="pd">
+            </div>
+            <div>
+                <label for="setpass">*设置密码:</label>
+                <input type="password"
+                       id="setpass"
+                       name="setpass"
+                       class="pd">
+            </div>
+            <div>
+                <label for="interest">*兴趣标签:</label>
+                    <input type="checkbox">新闻
+                    <input type="checkbox">娱乐
+                    <input type="checkbox">文化
+                    <input type="checkbox">体育
+            </div>
+            <div>
+                <label for="code">*验证码:</label>
+                <input type="text"
+                       style="width:80px"
+                       id="code"
+                       name="code"
+                       class="pd">
+            </div>
+            <div>
+                <label for=""></label>
+                <input class="bth" type="submit"
+                       value="立即注册">
+            </div>
+            <div>
+                <label for=""></label>
+                <a href="#">《新浪网络服务使用协议》</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

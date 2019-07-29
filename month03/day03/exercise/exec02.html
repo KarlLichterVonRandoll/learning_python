@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        ul{
+            padding: 0;
+            margin: 0;
+            list-style-type: none;
+        }
+        #nav{
+            margin: 0 auto;
+            border: solid 0px red;
+            overflow: hidden;
+        }
+        #nav>.tip{
+            float: left;
+            padding: 2px 15px;
+        }
+        #nav>ul{
+            float: left;
+        }
+        #nav>ul>li{
+            float: left;
+            margin: 0px 14px;
+            padding: 2px 15px;
+        }
+        #nav>ul>li:hover{
+            background-color: #f01400;
+            color: #fff;
+            padding: 2px 15px;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="nav">
+        <div class="tip">难度：</div>
+        <ul>
+            <li>全部</li>
+            <li>初级</li>
+            <li>中级</li>
+            <li>高级</li>
+        </ul>
+    </div>
+</body>
+</html>

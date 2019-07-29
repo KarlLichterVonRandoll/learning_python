@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #mobile{
+            width: 352px;
+            height: 626px;
+            margin: 0 auto;
+            background-image: url("../imgs/img06.png");
+        }
+        #mobile iframe{
+            margin-top: 74px;
+            margin-left: 16px;
+        }
+        #div01{
+            width: 240px;
+            height: 132px;
+            margin: 0 auto;
+            border: solid 1px red;
+            background-images: url("../imgs/img04.png");
+        }
+        #div01>div{
+            border: solid 1px blue;
+            background-color: rgba(199,237,204,0.5);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="mobile">
+        <!--<img src="../imgs/img05.png" alt="no">-->
+        <!-- 在页面中打开一个指定地址的页面
+             如果在一个页面中嵌入另一个页面
+             启动时消耗比较大-->
+        <iframe src="https://www.tencent.com" frameborder="0"
+                width="322px" height="422px">
+
+        </iframe>
+    </div>
+    <div id="div01">
+        <div>
+            哼哼哈嘿
+        </div>
+    </div>
+</body>
+</html>

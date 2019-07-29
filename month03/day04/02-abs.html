@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #parent{
+            width: 100px;
+            height: 108px;
+            border: solid 1px red;
+            margin: 0 auto;
+            position: relative;
+        }
+        #parent>#child{
+            width: 100px;
+            height: 20px;
+            color: white;
+            text-align: center;
+            background-color: rgba(0,0,255,0.5);
+            position: absolute;
+            bottom: 0px;
+        }
+        img{
+            /*子元素可以设置为百分比的宽度，相对于他的父元素*/
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="parent">
+        <img src="imgs/img02.png" alt="no">
+        <div id="child">
+            这是CSS
+        </div>
+    </div>
+</body>
+</html>

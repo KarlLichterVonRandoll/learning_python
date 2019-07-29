@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="tip">
+
+    </div>
+    <button onclick="a=document.getElementById('tip'); a.innerText='hello, world!';">
+        点我一下
+    </button>
+    <button onclick="a=document.getElementById('tip'); a.innerText=PI.toFixed(2);">
+        点击
+    </button>
+    <script>
+        //a1=2;  //全局变量
+        //var a2=3;  //页面局部变量
+        //var a3 a4 a5;  //定义多个变量并没有赋值
+        //a3=3; a4=4; a5=5;  //再赋值
+
+        //var a6=a7=a8=0;
+        //var a9=10, a10=12;
+
+        const PI=3.1415926;  //定义一个常量
+        alert(PI.toFixed(2));  //保留两位小数显示在页面
+    </script>
+
+
+</body>
+</html>
