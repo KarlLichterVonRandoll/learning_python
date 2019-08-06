@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script>
+        var str = "hdjsuhdgehd";
+        // 定义一个正则对象
+        var reg1 = /h/ig;
+        var reg2 = new RegExp("e", "ig");
+        // 开始匹配
+        console.log(reg2.test(str));
+        // 查看下一次匹配的索引位置
+        console.log(reg2.lastIndex);
+        // 重置查找的起始位置
+        reg2.lastIndex = 0;
+        // 第二次查找
+        console.log(reg2.test(str));
+
+        var res = str.match(reg2);
+        console.log(res.toString());
+
+        str = str.replace(reg2, "oo");
+        console.log(str);
+
+        var res = Math.round(1.5);
+        console.log(res);
+
+    </script>
+</body>
+</html>

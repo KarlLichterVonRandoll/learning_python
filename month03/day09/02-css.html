@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- 样式代码-->
+    <style>
+        #tip{
+            border: solid 1px #ccc;
+            width: 200px;
+            margin: 0 auto;
+            padding: 10px 0;
+            text-align: center;
+            background-color: blue;
+            color: #000;
+        }
+        .red{
+            background: red;
+        }
+    </style>
+    <script src="js/jquery.min.js"></script>
+</head>
+<body>
+    <div id="tip">
+         原有
+    </div>
+    <script>
+        $("#tip").on("click", function(){
+            $("#tip").toggleClass("red");
+        })
+
+        // 创建一个div元素
+        var $div = $("<div></div>");	//创建元素
+        $div.html("动态创建").attr("id","d1").css("color","red");
+        console.log($div);
+        $("#tip").after($div);
+    </script>
+</body>
+</html>

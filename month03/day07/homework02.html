@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #top{
+            width: 260px;
+            margin: 0 auto;
+            padding: 10px;
+        }
+        #top #p1{
+            margin-top: 10px;
+        }
+        .focus{
+            text-decoration: none;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div id="top">
+        <div class="fs">
+            <!--为了使 a 不跳转，必须在href属性中添加js代码-->
+            <a href="javascript:void()">大</a>
+            <a href="javascript:void()">中</a>
+            <a href="javascript:void()" class="focus">小</a>
+        </div>
+        <p id="p1">
+            或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+            在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+        </p>
+    </div>
+    <script>
+        var objLink = document.getElementsByTagName("a");
+        var p1 = document.getElementById("p1");
+
+        // 使用函数方式移除全部链接样式
+        function clearFocus(){
+            for (var i=0;i<objLink.length;i++){
+                // 移除每个链接对象的样式
+                objLink[i].removeAttribute("class");
+            }
+        }
+
+        objLink[0].onclick = function(){
+            clearFocus();
+            p1.style.fontSize = "20px";
+            objLink[0].className = "focus";
+        }
+        objLink[1].onclick = function(){
+            clearFocus();
+            p1.style.fontSize = "18px";
+            objLink[1].className = "focus";
+        }
+        objLink[2].onclick = function(){
+            clearFocus();
+            p1.style.fontSize = "16px";
+            objLink[2].className = "focus";
+        }
+    </script>
+</body>
+</html>

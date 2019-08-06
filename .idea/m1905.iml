@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/month02/project01_month02/HTTPServer/httpserver" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/month02/project01_month02/HTTPServer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/month02/project01_month02/HTTPServer/webframe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pyproject/02-sketch-code/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script>
+        // 定义一个数组
+        var arr = [0,1,2,3,4,5,6,'a','b','c','d','A','B','C','D'];
+        // 随机生成一个可以从数组中去找到的下标致
+        var index = Math.floor(Math.random()*arr.length);
+        // 输出随机生成的下标对应值
+        console.log(arr[index]);
+        var r="";
+        for(var i=0;i<4;i++){
+            var index = Math.floor(Math.random()*arr.length);
+            r += arr[index];
+        }
+        console.log(r);
+    </script>
+</body>
+</html>

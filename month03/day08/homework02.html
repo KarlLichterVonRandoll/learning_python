@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #tab{
+            width: 416px;
+            height: 218px;
+            border: solid 1px red;
+            margin: 0 auto;
+        }
+        #tab .nav{
+            margin: 0 auto;
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .title{
+            display: inline-block;
+            padding: 5px 0;
+            width: 104px;
+            float: left;
+            background-color: #c5c5c5;
+            text-align: center;
+        }
+        .hid{
+            display: none;
+        }
+        .show{
+            display: block;
+        }
+        .focus{
+            background-color: #0392cc;
+            color: #fff;
+        }
+        .con>p span{
+            display: inline-block;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="tab">
+        <div class="nav">
+            <div class="title">热点新闻</div>
+            <div class="title">合作播报</div>
+            <div class="title">行业咨询</div>
+            <div class="title focus">运营攻略</div>
+        </div>
+
+        <div class="con">
+            <p class="hid">111</p>
+            <p class="hid">222</p>
+            <p class="hid">333</p>
+            <p class="show">444</p>
+        </div>
+    </div>
+    <script>
+        var nav = document.getElementsByClassName("title");
+
+        function change(n){
+            for (var i=0;i<nav.length;i++){
+                if (i==n){
+                    nav[i].className = "title focus";
+                    document.getElementsByTagName("p")[i].className = "show";
+                }else{
+                    nav[i].className = "title";
+                    document.getElementsByTagName("p")[i].className = "hid";
+                }
+            }
+        }
+
+        nav[0].onclick = function(){
+            change(0);
+        }
+        nav[1].onclick = function(){
+            change(1);
+        }
+        nav[2].onclick = function(){
+            change(2);
+        }
+        nav[3].onclick = function(){
+            change(3);
+        }
+    </script>
+</body>
+</html>

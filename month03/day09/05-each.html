@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        ul{
+            margin: 0 auto;
+            padding: 0;
+            list-style-type: none;
+            width: 550px;
+            border: solid 5px #4c4c4c;
+
+        }
+        ul>li{
+            border-bottom: solid 1px #cee2df;
+            overflow: hidden;
+        }
+        ul>li>span{
+            display: inline-block;
+            width: 101px;
+            padding: 5px 4px;
+            float: left;
+            text-align: center;
+            border-right: solid 1px #cee2df;
+        }
+    </style>
+    <script src="js/jquery.min.js"></script>
+</head>
+<body>
+    <ul>
+        <li>
+            <span>Product</span>
+            <span>Price</span>
+            <span>ID Code</span>
+            <span>Quality</span>
+            <span>Exp Date</span>
+        </li>
+        <li>
+            <span>Pro01</span>
+            <span>50 $</span>
+            <span>001</span>
+            <span>A</span>
+            <span>2019/09/12</span>
+        </li>
+                <li>
+            <span>Pro01</span>
+            <span>50 $</span>
+            <span>001</span>
+            <span>A</span>
+            <span>2019/09/12</span>
+        </li>
+                <li>
+            <span>Pro01</span>
+            <span>50 $</span>
+            <span>001</span>
+            <span>A</span>
+            <span>2019/09/12</span>
+        </li>
+                <li>
+            <span>Pro01</span>
+            <span>50 $</span>
+            <span>001</span>
+            <span>A</span>
+            <span>2019/09/12</span>
+        </li>
+                <li>
+            <span>Pro01</span>
+            <span>50 $</span>
+            <span>001</span>
+            <span>A</span>
+            <span>2019/09/12</span>
+        </li>
+                <li>
+            <span>Pro01</span>
+            <span>50 $</span>
+            <span>001</span>
+            <span>A</span>
+            <span>2019/09/12</span>
+        </li>
+
+    </ul>
+
+    <script>
+        // 获取除第一行以外的行集合
+        $("ul>:not(li:first)li").each(function(index, elem){
+            // 将每一项元素转为 jq 对象
+            $(elem).on("mouseover",function(){
+                $(this).css({"background-color":"#aaa", "color":"#fff"});
+            }).on("mouseout",function(){
+                $(this).css({"background-color":"#fff", "color":"#000"});
+            });
+        })
+    </script>
+</body>
+</html>

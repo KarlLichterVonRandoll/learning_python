@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="sw">
+        <input type="range"
+               id="num"
+               min="1"
+               step="0.1"
+               max="10"
+               value="3">
+        <div id="tip">
+
+        </div>
+        <img id="img1" src="imgs/gm1.jpg" alt="">
+    </div>
+    <script>
+        // 1.先获取拖动元素对象，并保存在变量 a 中
+        var a = document.getElementById("num");
+        // 获取显示内容的div元素对象
+        var b = document.getElementById("tip");
+        // 2.绑定对象的值改变事件
+        a.onchange=function(){
+            // 将拖动时的值赋值给显示的div元素
+            b.innerText=a.value;
+            // 根据不同的值在控制台显示不同的内容
+            switch(a.value){
+                case "1":
+                console.log("今天天气不好");
+                break;
+                case "2":
+                console.log("名天天气不好");
+                break;
+                case "3":
+                console.log("后天天气不好");
+                break;
+                case "10":
+                // 图片隐藏
+                document.getElementById("img1").style.display="none";
+                break;
+                default:
+                console.log("选择出错")
+                document.getElementById("img1").style.display="block";
+                break;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #sum{
+            width: 100px;
+            border: solid 1px;
+            background-color: #ccc;
+            text-align: center;
+            margin: 0 auto;
+            padding: 3px 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="sum">
+
+    </div>
+    <script>
+        // 1.获取指定 id 名称的对象，并保存在变量中
+        var objsum=document.getElementById('sum');
+        // 2.计算1-100的和
+        var sum=0;
+        for(var i=1;i<=100;i++){
+            sum += i;
+        }
+        // 3.将结果作为元素值显示在页面元素中
+        objsum.innerText = sum
+
+
+    </script>
+</body>
+</html>

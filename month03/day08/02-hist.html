@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <a href="https://www.baidu.com">百度</a>
+    <script>
+        var his = window.history;
+        console.log(his);
+
+        // 显示当前地址栏中 URL 的信息
+        var loc=window.location;
+        console.log(loc.href);
+
+        // 重新刷新一次页面
+        // loc.reload(false);  //true表示不需要缓存，false需要缓存
+    </script>
+    <button onclick="window.history.back()">返回</button>
+    <button onclick="window.history.forward()">前进</button>
+    <button onclick="window.location.reload()">刷新</button>
+
+</body>
+</html>

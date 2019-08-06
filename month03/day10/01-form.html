@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        /* 定义错误提示信息的样式 */
+        #tip{
+            color: red;
+            display: none;
+        }
+    </style>
+    <!--<script src="js/jquery.min.js"></script>-->
+</head>
+<body>
+    <!-- action 属性表示提交到服务器的路径 -->
+    <!-- 1.表单验证事件不在提交按钮上，数据由表单元素提交，按钮是为表单服务的，所以验证事件在表单上
+         2.在 submit 事件中,如果返回值为 false，则不能提交，如果为 true，则可以提交
+         -->
+    <form action="" onsubmit="return sub()">
+        <!-- 表单中 name 属性用于获取数据的名称, id 用于 js/css 中定位元素 -->
+        <input type="text" name="aa" id="aa">
+        <!-- 输入内容为空时，也会提交-->
+        <input type="submit" value="提交">
+        <!-- 添加一个信息提示元素-->
+        <div id="tip">内容不能为空</div>
+    </form>
+    <script>
+        // 编写用于提交事件执行的函数
+        function sub(){
+            // 获取到文本框元素对象
+            var aa = document.getElementById("aa");
+            var tip = document.getElementById("tip");
+            // 判断文本框内容是否为空
+            if (aa.value==""){
+                // 显示错误提示信息
+                tip.style.display = "block";
+                // 阻止提交
+                return false;
+            }else{
+                // 正常提交
+                return true;
+            }
+        }
+    </script>
+</body>
+</html>

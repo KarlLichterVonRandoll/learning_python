@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            width: 260px;
+        }
+        ul>li:nth-child(1){
+            font-weight: bold;
+            background-color: #eee;
+            border: 0;
+        }
+        ul>li{
+            padding: 5px 10px;
+            border-bottom: dashed 1px #ccc;
+        }
+        ul>li>span{
+            display: inline-block;
+            width: 80px;
+        }
+        #add>div>button{
+            display: inline-block;
+            margin-left: 64px;
+        }
+        #add{
+            padding: 5px 10px;
+        }
+        #add>div>span{
+            display: inline-block;
+            width: 60px;
+            text-align: right;
+        }
+        #add>div{
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="stu">
+        <ul id="ul">
+
+        </ul>
+        <div id="add">
+            <div>
+                <span>姓名:</span>
+                <input type="text" id="name">
+            </div>
+            <div>
+                <span>年龄:</span>
+                <input type="text" id="age">
+            </div>
+            <div>
+                <button id="btnadd">增加</button>
+            </div>
+        </div>
+    </div>
+    <script>
+        // 定义一个数组
+        var stu=[{name:"zs", age:20},
+                 {name:"ls", age:30},
+                ];
+        // 读取数组，使用遍历的方式
+        function show(){
+            // 定义一个保存全部字符内容的变量
+            var HTML='<li><span>姓名</span><span>年龄</span></li>';
+            for(var i=0;i<stu.length;i++){
+                HTML+='<li>';
+                HTML+='<span>'+stu[i].name+'</span>';
+                HTML+='<span>'+stu[i].age+'</span>';
+                HTML+='</li>';
+            }
+            document.getElementById("ul").innerHTML=HTML;
+        }
+        show();
+        // 获取增加按钮元素并保存
+        document.getElementById("btnadd").onclick=function(){
+            // 先获取文本框中输入的值
+            var _name = document.getElementById("name").value;
+            var _age = document.getElementById("age").value;
+            var _obj = {};
+            _obj.name = _name;
+            _obj.age = _age;
+            stu.push(_obj);
+            stu.sort();
+            show();
+        }
+    </script>
+</body>
+</html>

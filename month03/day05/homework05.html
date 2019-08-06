@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .wb{
+            width: 122px;
+            margin: 0 auto;
+        }
+        .wb .cls{
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div id="weibo" class="wb">
+        <div class="top">
+            <img src="imgs/img02.png" alt="">
+        </div>
+        <div class="cls">
+            <img id="cls" src="imgs/img01.png" alt="">
+        </div>
+    </div>
+    <script>
+        function $$(id){
+            // return 用于返回指定id的DOM对象
+            return document.getElementById(id);
+        }
+        var btncls=$$("cls");
+        btncls.onclick=function(){
+            // 添加一个询问对话框，返回true or false
+            var res=confirm("确定关闭吗");
+            console.log(res);
+            if (res){
+                $$("weibo").style.display="none";
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #box{
+            width: 120px;
+            margin: 0 auto;
+            border: solid 1px #000;
+            padding: 10px 5px;
+            overflow: hidden;
+        }
+        #box>span{
+            width: 20px;
+            text-align: center;
+            font-weight: bold;
+            font-size: 28px;
+        }
+    </style>
+</head>
+<body>
+    <div id="box">
+
+        <span id="h">00</span>
+        <span>:</span>
+        <span id="m">00</span>
+        <span>:</span>
+        <span id="s">00</span>
+
+    </div>
+    <button id="btn">stop</button>
+    <script>
+        var objBox = document.getElementById("box");
+        var objBtn = document.getElementById("btn");
+
+        //if (objBtn.innerText=="start"){
+        //    var timerID = setInterval(function(){
+        //        var date = new Date();
+        //        document.getElementById('h').innerText = change(date.getHours());
+        //        document.getElementById('m').innerText = change(date.getMinutes());
+        //        document.getElementById('s').innerText = change(date.getSeconds());
+        //    }, 1000);
+        //}else{
+        //    clearInterval(timerID);
+        //}
+
+        // 定义一个由一位数变为二位数的函数
+        function change(n){
+            if (n<10){
+                return '0'+n;
+            }else{
+                return n;
+            }
+        }
+
+        objBtn.onclick = function(){
+            if (objBtn.innerText=="stop"){
+                objBtn.innerText="start";
+                var timerID = setInterval(function(){
+                    var date = new Date();
+                    document.getElementById('h').innerText = change(date.getHours());
+                    document.getElementById('m').innerText = change(date.getMinutes());
+                    document.getElementById('s').innerText = change(date.getSeconds());
+
+                }, 1000);
+            window.id = timerID;
+            }else{
+                clearInterval(window.id);
+                objBtn.innerText="stop";
+            }
+        }
+
+        var boxId = setTimeout(function(){
+            console.log("mthxy");
+        }, 2000);
+
+        var boxId2 = setTimeout(function(){
+            console.log("mth不会下雨");
+        }, 4000);
+
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #pics{
+            width: 400px;
+            margin: 0 auto;
+        }
+        fieldset input{
+            margin: 0 15px;
+        }
+    </style>
+</head>
+<body>
+    <!--1.写元素
+        2.写样式
+        3.写逻辑
+        4.微调-->
+    <div id="pics">
+        <div class="img">
+            <img src="imgs/l1.png" alt="no">
+            <img id="img" style="width:300px" src="imgs/gm1.jpg" alt="no">
+            <img src="imgs/r1.png" alt="no">
+        </div>
+        <fieldset>
+            <legend>选择按钮</legend>
+            <!--name属性值相同可以确保单选按钮相互排斥-->
+            <input type="radio" name="pic" id="pic1" value="1">
+            <input type="radio" name="pic" id="pic2" value="2">
+            <input type="radio" name="pic" id="pic3" value="3">
+            <input type="radio" name="pic" id="pic4" value="4">
+            <input type="radio" name="pic" id="pic5" value="5">
+        </fieldset>
+    </div>
+    <script>
+        // 1.获取单选按钮对象
+        var btn1=document.getElementById("pic1");
+        var btn2=document.getElementById("pic2");
+        var btn3=document.getElementById("pic3");
+        var btn4=document.getElementById("pic4");
+        var btn5=document.getElementById("pic5");
+        var imgShow=document.getElementById("img");
+        console.log(imgShow)
+        // 2.绑定按钮元素绑定事件
+        btn1.onclick=function(){
+            // 设置指定属性名称的值
+            imgShow.setAttribute("src", "imgs/gm1.jpg");
+        }
+        btn2.onclick=function(){
+            imgShow.setAttribute("src", "imgs/gm2.jpg");
+        }
+        btn3.onclick=function(){
+            imgShow.setAttribute("src", "imgs/gm3.jpg");
+        }
+        btn4.onclick=function(){
+            imgShow.setAttribute("src", "imgs/gm4.jpg");
+        }
+        btn5.onclick=function(){
+            imgShow.setAttribute("src", "imgs/gm5.jpg");
+        }
+    </script>
+</body>
+</html>

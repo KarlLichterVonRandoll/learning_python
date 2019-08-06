@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        ul{
+            list-style-type: none;
+            width: 404px;
+            margin: 0 auto;
+            padding: 0;
+            overflow: hidden;
+        }
+        ul>li{
+            float: left;
+            text-align: center;
+        }
+        .top{
+            width: 404px;
+            margin: 0 auto;
+            overflow: hidden;
+        }
+        .tip{
+            float: left;
+            margin-left: 5px;
+        }
+        .change{
+            float: right;
+            margin-right: 5px;
+        }
+    </style>
+    <script src="js/jquery.min.js"></script>
+</head>
+<body>
+    <div class="top">
+        <div class="tip">相关书籍</div>
+        <div class="change">换一换</div>
+    </div>
+    <ul>
+        <!--<li>-->
+            <!--<img src="imgs/bk0.jpg" alt="">-->
+            <!--<h3><a href="javascript:;">第一本图书</a></h3>-->
+            <!--<p>属于第一类</p>-->
+        <!--</li>-->
+        <!--<li>-->
+            <!--<img src="imgs/bk1.jpg" alt="">-->
+            <!--<h3><a href="javascript:;">第二本图书</a></h3>-->
+            <!--<p>属于第二类</p>-->
+        <!--</li>-->
+    </ul>
+
+    <script>
+        // 定义数组保存5项数据
+        var arrBooks=[{url:"imgs/bk0.jpg", name:"第一本图书", cls:"属于第一类"},
+                      {url:"imgs/bk1.jpg", name:"第二本图书", cls:"属于第二类"},
+                      {url:"imgs/bk2.jpg", name:"第三本图书", cls:"属于第三类"},
+                      {url:"imgs/bk3.jpg", name:"第四本图书", cls:"属于第四类"},
+                      {url:"imgs/bk4.jpg", name:"第五本图书", cls:"属于第五类"},
+        ]
+        // 使用选择器获取换一换按钮
+        $(".change").on("click", function(){
+            // 1.生成两个随机下标
+            // 2.根据下标获取数组元素
+            // 3.将元素数据显示在页面
+
+            // 将生成数组保存在变量中
+            var _tmpArr=create(2);
+            console.log(_tmpArr);
+            // 遍历数组获取每项数据
+            var HTML = "";
+            for (var i=0;i<_tmpArr.length;i++){
+                // 根据索引号获取数据
+                HTML += '<li>';
+                HTML += '<img src="'+arrBooks[_tmpArr[i]].url+'" alt="">'
+                HTML += '<h3><a href="javascript:;">'+arrBooks[_tmpArr[i]].name+'</a></h3>'
+                HTML += '<p>'+arrBooks[_tmpArr[i]].cls+'</p>'
+                HTML += '</li>'
+            };
+            $("ul").html($(HTML));
+        })
+        // 定义函数生成指定位数的随机数
+        function create(count){
+            var arrTmp = [];
+            for(var i=0;i<count;i++){
+                var _index=Math.floor(Math.random()*arrBooks.length);
+                arrTmp.push(_index);
+            }
+            return arrTmp;
+        }
+    </script>
+</body>
+</html>

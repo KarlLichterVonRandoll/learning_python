@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #search{
+            width: 260px;
+            margin: 0 auto;
+        }
+        span{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div id="search">
+        <input type="text" id="key">
+        <button id="btn">查询</button>
+        <p id="p1">
+            酷狗是中国领先的数字音乐交互服务提供商，互联网技术创新的领军企业，
+            致力于为互联网用户和数字音乐产业发展提供最佳的解决方案。
+            公司的使命是成为亚太地区最大的数字音乐销售推广企业。
+            自公司创建以来，一直在数字音乐发展上大胆尝试。
+        </p>
+    </div>
+
+    <script>
+        function $$(id){
+            return document.getElementById(id);
+        }
+        var objBtn = $$('btn');
+        var objText = $$('key');
+        var objP1 = $$('p1');
+
+        objBtn.onclick = function(){
+            var num = objText.value;
+            var reg = new RegExp(num, "ig");
+            var newHTML = objP1.innerHTML.replace(reg, "<span>"+num+"</span>");
+            console.log(newHTML);
+            // 重置新的内容
+            objP1.innerHTML = newHTML;
+        }
+    </script>
+</body>
+</html>

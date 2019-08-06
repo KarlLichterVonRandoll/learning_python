@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #nav{
+            width: 200px;
+            border: solid 1px red;
+            margin: 0 auto;
+        }
+        #nav .title{
+            border-bottom: solid 1px blue;
+            padding: 5px 8px;
+            background-color: #ccc;
+            cursor: pointer;
+        }
+        #nav .content{
+            padding: 8px 8px;
+        }
+    </style>
+</head>
+<body>
+    <div id="nav">
+        <div class="title" onclick="aa()">法则</div>
+        <div class="content">
+            根据就点开放工会的发挥就是向量矩阵转置深度神经网络，
+            根据就点开放工会的发挥就是向量矩阵转置深度神经网络，
+            根据就点开放工会的发挥就是向量矩阵转置深度神经网络，
+            根据就点开放工会的发挥就是向量矩阵转置深度神经网络。
+        </div>
+    </div>
+    <script>
+        // 1.获取到标题和内容元素对象
+
+
+        // 2.编写代码块 aa 的内容
+        function aa(){
+            var a = document.getElementsByClassName("title")[0];
+            var b = document.getElementsByClassName("content")[0];
+            console.log(b.style);
+            console.log(b.style.display);
+            if(b.style.display==""){
+                b.style.display="block";
+            }else{
+                b.style.display="";
+            }
+        }
+    </script>
+</body>
+</html>

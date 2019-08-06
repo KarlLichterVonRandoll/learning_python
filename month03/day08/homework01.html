@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #pics{
+            width: 400px;
+            margin: 0 auto;
+            position: relative;
+        }
+        #pics>img{
+            width: 400px;
+        }
+        #pics .lleft{
+            width: 20px;
+            position: absolute;
+            top: 43%;
+            left: 0;
+            cursor: pointer;
+        }
+        #pics .rright{
+            width: 20px;
+            position: absolute;
+            top: 43%;
+            right: 0;
+            cursor: pointer;
+        }
+        #pics .lleft>img{
+            width: 20px;
+            height: 35px;
+        }
+        #pics .rright>img{
+            width: 20px;
+            height: 35px;
+        }
+    </style>
+</head>
+<body>
+    <div id="pics">
+        <img id="ig" src="imgs/gm1.jpg" alt="">
+        <div class="lleft">
+            <img src="imgs/l1.png" alt="">
+        </div>
+        <div class="rright">
+            <img src="imgs/r1.png" alt="">
+        </div>
+    </div>
+
+    <script>
+        // 新建数组保存图片地址
+        var imgs=["imgs/gm1.jpg", "imgs/gm2.jpg", "imgs/gm3.jpg", "imgs/gm4.jpg", "imgs/gm5.jpg",];
+        // 获取右侧点击按钮对象
+        var lleft = document.getElementsByClassName("lleft")[0];
+        var rright = document.getElementsByClassName("rright")[0];
+        // 定义一个下标变量
+        var index = 0;
+        // 绑定单击按钮对象的事件
+        rright.onclick = function(){
+            index++;
+            if (index==imgs.length){
+                index = 0;
+            }
+            document.getElementById("ig").src = imgs[index];
+        }
+        lleft.onclick = function(){
+            index--;
+            if (index<0){
+                index = imgs.length-1;
+            }
+            document.getElementById("ig").src = imgs[index];
+        }
+    </script>
+</body>
+</html>

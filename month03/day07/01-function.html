@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="tip">
+        ...
+    </div>
+    <script>
+        // 定义一个带名称参数的函数
+        function hi(name, age){
+            return "我是"+name+",今年"+age+"岁";
+        }
+        // 获取指定 id 的元素，并保存在变量中
+        var objTip = document.getElementById("tip");
+        // 设置元素对象中的内容
+        // objTip.innerText = hi("yomi", 18);
+
+        // 定义匿名函数
+
+        // 定义变量接收匿名函数
+        //objTip.innerText = (function(name, age){
+            //return "我是"+name+",今年"+age+"岁";
+        //})("limi", 19)
+
+        // 匿名函数自己执行
+        //(function(name, age){
+        //    var objTip = document.getElementById("tip");
+        //    var str = "我是"+name+",今年"+age+"岁";
+        //    objTip.innerText = str;
+        //})("limi", 19)
+
+        // json格式对象函数
+        var log={
+            ab:function(){
+                return "ok";
+            },
+            cd:function(){
+                return "no";
+            }
+        }
+        objTip.innerText = log.ab();
+        console.log(log.ab());
+
+        var a = 200;
+        function aa(){
+            var c = 100;
+            return a;
+        }
+        console.log(aa());
+
+
+
+    </script>
+</body>
+</html>
