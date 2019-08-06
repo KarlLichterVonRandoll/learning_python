@@ -5,6 +5,8 @@
     <title>Title</title>
     <!-- 导入样式文件 -->
     <link rel="stylesheet" href="css/style.css">
+    <!-- 导入jq框架文件 -->
+    <script src="js/jquery.min.js"></script>
 </head>
 <body>
     <div id="nav">
@@ -18,7 +20,7 @@
                 <ul>
                     <li><a href="index.html">网站首页</a></li>
                     <li class="focus">文章列表</li>
-                    <li>我的相册</li>
+                    <li><a href="mypic.html">我的相册</a></li>
                     <li>时间轴</li>
                     <li>留言</li>
                     <li>关于我</li>
@@ -36,6 +38,9 @@
          2.编写元素的布局和样式
          3.微调和优化-->
     <!-- 最大的页面元素 -->
+    <div class="adimgs">
+        <img src="imgs/re_bg.png" alt="">
+    </div>
     <div id="list">
         <!-- 添加顶部元素 -->
         <div class="top">
@@ -72,6 +77,7 @@
                     </div>
                 </div>
             </div>
+
             <!-- 广告推荐 -->
             <div class="ad">
                 <!-- 广告标题 -->
@@ -92,6 +98,7 @@
             </div>
         </div>
     </div>
-
+    <!-- 导入业务逻辑文件 -->
+    <script src="js/blog.js"></script>
 </body>
 </html>
