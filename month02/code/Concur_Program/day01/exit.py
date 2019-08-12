@@ -9,8 +9,8 @@ if pid < 0:
 elif pid == 0:
     print("new process")
     time.sleep(1)
-    os._exit(0)
     print("new end")
+    os._exit(0)
 else:
     print("old process")
     time.sleep(2)

@@ -23,7 +23,7 @@ def request():
         # print("开始摇号")
         time.sleep(1)
         try:
-            print(q.get(timeout=2), end="\n")  # 出队
+            print(q.get(timeout=5), end="\n")  # 出队
         except:
             break
 

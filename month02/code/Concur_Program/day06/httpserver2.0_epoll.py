@@ -68,7 +68,7 @@ class HTTPServer:
 
         # 根据请求内容进行数据整理
         # 分为两类 1.请求网页 2.其他
-        if info == "/" or info[-5:] == ".html":
+        if info == "/" or info[-5:] == ".01-html":
             self.get_html(self.fnmap(fn), info)
         else:
             self.get_other(self.fnmap(fn))
@@ -76,7 +76,7 @@ class HTTPServer:
     # 返回网页
     def get_html(self, connfd, info):
         if info == "/":
-            filename = self.dir + "/index.html"
+            filename = self.dir + "/index.01-html"
         else:
             filename = self.dir + info
         try:
@@ -84,13 +84,13 @@ class HTTPServer:
         except Exception:
             # 网页不存在
             response = "HTTP/1.1 404 Not Found\r\n"
-            response += "Content-Type:text/html\r\n"
+            response += "Content-Type:text/01-html\r\n"
             response += "\r\n"
             response += '<h1>Sorry</h1>'
         else:
             # 网页存在
             response = "HTTP/1.1 200 OK\r\n"
-            response += "Content-Type:text/html\r\n"
+            response += "Content-Type:text/01-html\r\n"
             response += "\r\n"
             response += fd.read()
         finally:
@@ -100,7 +100,7 @@ class HTTPServer:
     # 返回其他
     def get_other(self, connfd):
         response = "HTTP/1.1 200 OK\r\n"
-        response += "Content-Type:text/html\r\n"
+        response += "Content-Type:text/01-html\r\n"
         response += "\r\n"
         response += "<h1>wait for http_server3.0</h1>"
 

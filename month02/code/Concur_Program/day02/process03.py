@@ -8,6 +8,7 @@ import time
 
 # 带参数的进程函数
 def func(number, times):
+    num = input(":")
     for i in range(times):
         time.sleep(2)
         print(number * i)

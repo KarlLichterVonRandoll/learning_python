@@ -72,12 +72,12 @@ class HTTPServer:
         # data => {'status': '200', 'data': 'xxxxxx'}
         if data['status'] == '200':
             responseHeaders = "HTTP/1.1 200 OK\r\n"
-            responseHeaders += "Content-Type:text/html\r\n"
+            responseHeaders += "Content-Type:text/01-html\r\n"
             responseHeaders += '\r\n'
             responseBody = data['data']
         elif data['status'] == '404':
             responseHeaders = "HTTP/1.1 404 Not Found\r\n"
-            responseHeaders += "Content-Type:text/html\r\n"
+            responseHeaders += "Content-Type:text/01-html\r\n"
             responseHeaders += '\r\n'
             responseBody = data['data']
         elif data['status'] == '500':

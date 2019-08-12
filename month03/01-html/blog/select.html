@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- 导入项目共用样式文件 -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- 导入jq框架文件 -->
+    <script src="js/jquery.min.js"></script>
+</head>
+<body>
+    <ul>
+        <li><input type="checkbox"><span>编程语言</span></li>
+        <li><input type="checkbox"><span>javascript</span></li>
+        <li><input type="checkbox"><span>python</span></li>
+        <li><input type="checkbox"><span>c++</span></li>
+        <li><input type="checkbox"><span>java</span></li>
+    </ul>
+
+    <script>
+        // 获取第一个复选框元素
+        var $chk = $("li:nth-child(1)>input");
+        var $all_chk = $("li:not(li:nth-child(1)>input)>input")
+
+        $chk.on("click", function(){
+            // 全选框选中
+            if($(this).prop("checked")){
+                // 遍历除第一项外的全部复选框元素
+                $all_chk.each(function(index,elem){
+                    //获取每一项并使他处于选中状态
+                    $(elem).prop("checked",true);
+                });
+            }else{ // 全选框不选中
+                // 遍历除第一项外的全部复选框元素
+                $all_chk.each(function(index,elem){
+                    //获取每一项并使他处于取消选中状态
+                    $(elem).prop("checked",false);
+                })
+            };
+        })
+    </script>
+</body>
+</html>

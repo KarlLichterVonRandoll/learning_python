@@ -47,7 +47,7 @@ class Application:
         request = json.loads(request)
         # request => {'method':'GET', 'info':'/'}
         if request['method'] == 'GET':
-            if request['info'][-5:] == '.html' or request['info'] == '/':
+            if request['info'][-5:] == '.01-html' or request['info'] == '/':
                 response = self.get_html(request['info'])
             else:
                 response = self.get_data(request['info'])
@@ -62,13 +62,13 @@ class Application:
     # 获取网页文件
     def get_html(self, info):
         if info == "/":
-            filename = DIR + "/index.html"
+            filename = DIR + "/index.01-html"
         else:
             filename = DIR + info
         try:
             fd = open(filename)
         except Exception:
-            fd = open(DIR + '/error.html')
+            fd = open(DIR + '/error.01-html')
             return {'status': '404', 'data': fd.read()}
         else:
             return {'status': '200', 'data': fd.read()}

@@ -1,10 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/month03/day09/01-base.html" line="8" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="" />
+    <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/month03/01-html/blog/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/02-MySQL_senior/day01/MySQL高级-day01-toS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/02-MySQL_senior/day01/insert_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/02-MySQL_senior/day02/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/02-MySQL_senior/day03/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/02-MySQL_senior/day03/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/01-fill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/02-bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/03-pie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/04-contourf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/06-3dscatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/07-3dsurface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/08-wireframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/09-polar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/10-bubble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/11-sinc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/12-loadtxt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/aapl.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/数据分析DAY03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day04/01-k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day04/02-mean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day04/aapl.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/img01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/m1905.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/m1905.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Concur_Program/day01/exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day01/exit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Concur_Program/day02/process03.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day02/process03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Concur_Program/day03/queue_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day03/queue_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0_epoll.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day06/httpserver2.0_epoll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/code/IO_Network/day06/httpserver1.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/IO_Network/day06/httpserver1.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/project01_month02/HTTPServer/httpserver/httpserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/project01_month02/HTTPServer/httpserver/httpserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month02/project01_month02/HTTPServer/webframe/webframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/project01_month02/HTTPServer/webframe/webframe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/5794.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/5794.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/alipay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/alipay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/auicon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/auicon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/author.gif" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/author.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/b04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/b04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/b05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/b05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/banner01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/banner01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/banner02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/banner02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/banner03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/banner03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/bi05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/bi05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/bitbug_favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/bitbug_favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/blank.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/blank.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/category.gif" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/category.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/commentPhoto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/commentPhoto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/comments.gif" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/comments.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/d.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/date.gif" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/date.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/dsbz.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/dsbz.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/dzbg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/dzbg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/e.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/f.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/f.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/newsbg03.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/newsbg03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/page_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/page_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/page_bg1.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/page_bg1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/page_photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/page_photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/page_time.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/page_time.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/re_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/re_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/searchbg.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/searchbg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/tags.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/tags.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/time.gif" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/time.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/top.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/top.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/toppic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/toppic01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/toppic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/toppic02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/v1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/v1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/v2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/v2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/wechat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/wechat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/wx.png" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/wx.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/imgs/zd01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/imgs/zd01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/js/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/js/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/blog/mypic.html" beforeDir="false" afterPath="$PROJECT_DIR$/month03/01-html/blog/mypic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/body.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/exercise/exec01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/exercise/exec02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/exercise/exec03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/imgs/ave.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/imgs/dlrb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/imgs/img01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/index01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day01/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/01-cssbase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/02-group.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/03-hover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/04-size.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/05-color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/exercise/exec01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/exercise/exec02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/exercise/exec03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/exercise/img/img01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/exercise/img/img03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day02/exercise/img/img04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/01-border.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/02-show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/03-margin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/04-float.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/05-float2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/exercise/exec01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/exercise/exec02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/exercise/exec03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/imgs/img01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/imgs/img02.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/imgs/img02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/imgs/img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day03/imgs/timg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/01-pos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/02-abs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/03-fixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/04-zindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/05-bgimg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/exercise/exec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/exercise/exec2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/exercise/exec3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/imgs/img02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/imgs/img04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/imgs/img05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/imgs/img06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day04/imgs/img07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/01-jsbase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/02-event.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/homework05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/homework06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/imgs/img01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/imgs/img02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/imgs/img03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/imgs/img04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/imgs/img05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/imgs/img06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day05/js/js01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/01-if.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/02-switch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/03-for.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/04-event.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/05-radios.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/imgs/gm1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/imgs/gm2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/imgs/gm3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/imgs/gm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/imgs/gm5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/imgs/l1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day06/imgs/r1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day07/01-function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day07/02-array.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day07/03-string.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day07/04-reg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day07/05-math.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day07/06-date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day07/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day07/homework01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day07/homework02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/01-setin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/02-hist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/03-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/04-attr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/homework01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/homework02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/imgs/gm1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/imgs/gm2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/imgs/gm3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/imgs/gm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/imgs/gm5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/imgs/l1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day08/imgs/r1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/01-base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/02-css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/03-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/04-anin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/05-each.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/homework01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/bk0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/bk1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/bk2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/bk3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/bk4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/bk5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/img01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/img02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/img03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/img04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/imgs/img05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day09/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/01-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/5794.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/alipay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/auicon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/author.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/b04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/b05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/banner01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/banner02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/banner03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/bi05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/bitbug_favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/blank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/category.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/commentPhoto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/comments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/date.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/dsbz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/dzbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/newsbg03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/page_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/page_bg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/page_photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/page_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/re_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/searchbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/time.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/toppic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/toppic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/v1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/v2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/wechat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/wx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/imgs/zd01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/js/blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/day10/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/examples/drawn_example1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/examples/drawn_example2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/examples/drawn_example3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/header_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/scripts/get_data.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/scripts/get_pretrained_model.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day01/Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/Dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/ImagePreprocessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/ImagePreprocessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/inference/Compiler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/inference/Evaluator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/inference/Node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/inference/Sampler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/inference/SamplerUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/inference/styles/airbnb_dsl_mapping.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/inference/styles/default-dsl-mapping.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/inference/styles/facebook_dsl_mapping.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/model/ModelUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/model/SketchCodeModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/model/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/month05/datascience/day03/05-imshow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/convert_batch_of_images.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/convert_single_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/evaluate_batch_guis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/evaluate_single_gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/test01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/vocabulary.vocab" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,67 +301,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month03/blog/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month03/blog/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/month03/03-django/day01/Note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="242">
+                <caret line="417" column="23" lean-forward="true" selection-start-line="417" selection-start-column="23" selection-end-line="417" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/month03/blog/mypic.html">
+        <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+            <state relative-caret-position="445">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/text.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#641#673#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month03/blog/js/blog.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1357">
-              <caret line="151" column="17" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
+        <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/Note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="525">
+                <caret line="504" column="17" lean-forward="true" selection-start-line="504" selection-start-column="17" selection-end-line="504" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month03/blog/list.html">
+        <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+            <state relative-caret-position="-823">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#224#233#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month03/blog/css/style.css">
+        <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="153" column="21" lean-forward="true" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,57 +411,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../桌面/day11js/js╢╘╧є,╩¤╫щ,╩¤╤з╢╘╧є.md" />
-        <option value="$PROJECT_DIR$/month03/day07/06-date.html" />
-        <option value="$PROJECT_DIR$/month03/day07/homework01.html" />
-        <option value="$PROJECT_DIR$/month05/datascience/day01/numpy05.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day02/Note.md" />
-        <option value="$PROJECT_DIR$/month03/day08/01-setin.html" />
-        <option value="$PROJECT_DIR$/month03/day08/03-tmp.html" />
-        <option value="$PROJECT_DIR$/month03/day08/02-hist.html" />
-        <option value="$PROJECT_DIR$/month03/day08/03-doc.html" />
-        <option value="$PROJECT_DIR$/month03/day08/04-attr.html" />
-        <option value="$PROJECT_DIR$/month03/day07/homework02.html" />
-        <option value="$PROJECT_DIR$/month03/day08/homework01.html" />
-        <option value="$PROJECT_DIR$/month03/day08/homework02.html" />
-        <option value="$PROJECT_DIR$/pyproject/01-flappybird/main.py" />
-        <option value="$PROJECT_DIR$/month03/day09/Note.md" />
-        <option value="$PROJECT_DIR$/month03/day09/01-base.html" />
-        <option value="$PROJECT_DIR$/month03/day09/02-css.html" />
-        <option value="$PROJECT_DIR$/month03/day09/03-list.html" />
-        <option value="$PROJECT_DIR$/month03/day09/04-anin.html" />
-        <option value="$PROJECT_DIR$/month03/day09/05-each.html" />
-        <option value="$PROJECT_DIR$/month03/day09/homework01.html" />
-        <option value="$PROJECT_DIR$/DataStructure/sort/02-select.py" />
-        <option value="$PROJECT_DIR$/DataStructure/sort/sort.md" />
-        <option value="$PROJECT_DIR$/DataStructure/sort/01-bubble.py" />
-        <option value="$PROJECT_DIR$/DataStructure/sort/03-insert.py" />
-        <option value="$PROJECT_DIR$/DataStructure/sort/04-shell.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day02/plt01.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day02/plt02.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day02/plt03.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day02/plt04.py" />
-        <option value="$PROJECT_DIR$/DataStructure/sort/test.txt" />
-        <option value="$PROJECT_DIR$/DataStructure/sort/05-fast.py" />
-        <option value="$PROJECT_DIR$/DataStructure/sort/05-quick.py" />
-        <option value="$PROJECT_DIR$/month03/day10/Note.md" />
         <option value="$PROJECT_DIR$/month03/day10/01-form.html" />
         <option value="$PROJECT_DIR$/month03/blog/login.html" />
         <option value="$PROJECT_DIR$/month03/day08/Note.md" />
         <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/train.py" />
-        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/test01.py" />
         <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/model/SketchCodeModel.py" />
         <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/model/ModelUtils.py" />
         <option value="$PROJECT_DIR$/month05/datascience/day02/plt05.py" />
         <option value="$PROJECT_DIR$/month05/datascience/day02/plt06.py" />
-        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/Dataset.py" />
-        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/ImagePreprocessor.py" />
         <option value="$PROJECT_DIR$/month03/list.html" />
         <option value="$PROJECT_DIR$/month03/blog/index.html" />
         <option value="$PROJECT_DIR$/month03/blog/list.html" />
         <option value="$PROJECT_DIR$/month03/blog/mypic.html" />
         <option value="$PROJECT_DIR$/month03/blog/css/style.css" />
         <option value="$PROJECT_DIR$/month03/blog/js/blog.js" />
+        <option value="$PROJECT_DIR$/month03/blog/select.html" />
+        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/test01.py" />
+        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/Dataset.py" />
+        <option value="$PROJECT_DIR$/month03/MySQL_senior/day01/insert_data.py" />
+        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/ImagePreprocessor.py" />
+        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/test01.py" />
+        <option value="$PROJECT_DIR$/names.txt" />
+        <option value="$PROJECT_DIR$/numbers.txt" />
+        <option value="$PROJECT_DIR$/001.py" />
+        <option value="$PROJECT_DIR$/month03/MySQL_senior/day02/Note.md" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/fill01.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/bar01.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/pie01.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/contourf01.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/03-pie.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/04-contourf.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/05-imshow.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/06-3dscatter.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/07-3dsurface.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/08-wireframe.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/09-polar.py" />
+        <option value="$PROJECT_DIR$/month03/MySQL_senior/day03/Note.md" />
+        <option value="$PROJECT_DIR$/month03/MySQL_senior/day01/MySQL高级-day01-toS.md" />
+        <option value="$PROJECT_DIR$/month03/MySQL_senior/day03/test01.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day01/exit.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day02/process03.py" />
+        <option value="$PROJECT_DIR$/month02/code/Concur_Program/day03/queue_0.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/10-bubble.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/11-sinc.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day03/12-loadtxt.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day04/01-k.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day04/02-mean.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/settings.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day01/Note.md" />
+        <option value="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/text.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/urls.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/views.py" />
       </list>
     </option>
   </component>
@@ -172,7 +479,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,59 +495,68 @@
               <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month03" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="03-django" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month03" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="03-django" type="462c0819:PsiDirectoryNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month03" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+              <item name="03-django" type="462c0819:PsiDirectoryNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month03" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="03-django" type="462c0819:PsiDirectoryNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
-              <item name="pyproject" type="462c0819:PsiDirectoryNode" />
+              <item name="month03" type="462c0819:PsiDirectoryNode" />
+              <item name="03-django" type="462c0819:PsiDirectoryNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite1" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../桌面/datascience/day02/数据分析DAY02.md" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.EditorConfig" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/manage.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/month03/01-html" />
       <recent name="$PROJECT_DIR$/month03/blog" />
       <recent name="$PROJECT_DIR$/month03" />
       <recent name="$PROJECT_DIR$/month03/day03" />
       <recent name="$PROJECT_DIR$/month03/day03/imgs" />
-      <recent name="$PROJECT_DIR$/month03/day02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pyproject" />
-      <recent name="$PROJECT_DIR$/month03/blog" />
-      <recent name="$PROJECT_DIR$/month03/blog/js" />
-      <recent name="$PROJECT_DIR$/month03/day10" />
-      <recent name="$PROJECT_DIR$/month03/day09" />
+      <recent name="$PROJECT_DIR$/month05/datascience/day04" />
+      <recent name="$PROJECT_DIR$/month05/datascience/day03" />
+      <recent name="$PROJECT_DIR$/month03/MySQL_senior/day01" />
+      <recent name="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset" />
+      <recent name="$PROJECT_DIR$/pyproject/02-sketch-code/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -256,7 +571,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.plt06">
+  <component name="RunManager" selected="Python.views">
     <configuration name="m1905" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,7 +589,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="05-fast" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01-k" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,11 +597,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure/sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/sort/05-quick.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day04/01-k.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +610,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plt04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-mean" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +618,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day02/plt04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day04/02-mean.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +631,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plt05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11-sinc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,11 +639,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day02/plt05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day03/11-sinc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,7 +652,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plt06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12-loadtxt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,11 +660,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day02/plt06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day03/12-loadtxt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,7 +673,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,11 +681,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyproject/02-sketch-code/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyproject/02-sketch-code/src/test01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,11 +696,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plt06" />
-        <item itemvalue="Python.plt05" />
-        <item itemvalue="Python.test01" />
-        <item itemvalue="Python.05-fast" />
-        <item itemvalue="Python.plt04" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.02-mean" />
+        <item itemvalue="Python.01-k" />
+        <item itemvalue="Python.12-loadtxt" />
+        <item itemvalue="Python.11-sinc" />
       </list>
     </recent_temporary>
   </component>
@@ -701,7 +1016,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565081576717</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2019.08.05">
+      <created>1565083020701</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1565083020701</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView">
@@ -717,14 +1039,14 @@
     <frame x="67" y="25" width="1373" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16604893" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798658" visible="true" weight="0.17197925" />
+      <window_info id="Structure" order="1" sideWeight="0.50201344" side_tool="true" weight="0.13713862" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" visible="true" weight="0.12080537" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" weight="0.10738255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" weight="0.29798657" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" visible="true" weight="0.2147651" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
@@ -807,344 +1129,349 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/month03/day09/05-each.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/imgs/b05.jpg">
+    <entry file="file://$PROJECT_DIR$/month03/02-MySQL_senior/day03/timg.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/model/__init__.py">
+    <entry file="file://$PROJECT_DIR$/month03/02-MySQL_senior/day01/MySQL高级-day01-toS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-9">
+            <caret line="306" column="3" lean-forward="true" selection-start-line="306" selection-start-column="3" selection-end-line="306" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/02-MySQL_senior/day02/Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-132">
+            <caret line="108" column="5" lean-forward="true" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/02-MySQL_senior/day03/Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="973">
+            <caret line="204" lean-forward="true" selection-start-line="204" selection-end-line="204" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/exercise06.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/month03/day10/js/blog.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/day10/01-form.html">
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/exercise05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-        </state>
+        <state relative-caret-position="-1095" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/day07/╥│├ц▓╝╛╓.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-267" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/day08js/js╩¤╛▌└р╨═.md" />
-    <entry file="file://$PROJECT_DIR$/month03/day06/Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1851" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/day07/Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="220" column="17" lean-forward="true" selection-start-line="220" selection-start-column="17" selection-end-line="220" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/day09js/js09.md" />
-    <entry file="file://$PROJECT_DIR$/../桌面/day10js/js╢и╩▒╞ў.md" />
-    <entry file="file://$PROJECT_DIR$/../桌面/day11js/js╢╘╧є,╩¤╫щ,╩¤╤з╢╘╧є.md" />
-    <entry file="file://$PROJECT_DIR$/month03/day05/Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/day14jQuery/╩┬╝■.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1763" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/day16jQuery/ajax╩╟╩▓├┤.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/day15jQuery/jquery╘к╦╪╜┌╡у▓┘╫ў.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-231" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/day13jQuery/╧р╣╪│▀┤ч.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1111" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/day09/Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="481">
-            <caret line="189" column="12" lean-forward="true" selection-start-line="189" selection-start-column="12" selection-end-line="189" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/day08/Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-44">
-            <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/day12jQuery/jQuery.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi">
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/exercise04.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/1.data_model/pokercard.py">
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/exercise03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/exercise02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/exercise01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day19/note.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day16-17/note.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day15/note.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day14/note.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day09-10/note.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day18/exercise02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day18/exercise01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day18/note.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01/code/day08/note.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/get_pid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/exit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/process01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <folding>
+            <element signature="e#88#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/process02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/process03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#22#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/fork03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/multiprocessing/queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/pool.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/queue_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="e#33#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/pipe.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/zongzi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/02-MySQL_senior/day03/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/aapl.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/11-sinc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/1.data_model/vector2d.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/2.array_seq/Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-6317" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fluent_python/3.dict_set/Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-839" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/argparse.py">
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/10-bubble.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="1315" column="8" selection-start-line="1315" selection-start-column="8" selection-end-line="1315" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="649">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
-            <element signature="e#0#46#0" expanded="true" />
+            <element signature="e#27#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/vocabulary.vocab">
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/09-polar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/12-loadtxt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day04/aapl.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/datascience/day02/数据分析DAY02.md">
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day04/02-mean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="73" column="12" lean-forward="true" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day04/01-k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+          <folding>
+            <element signature="e#20#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/core/management/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#224#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/Note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-572">
-            <caret line="586" column="14" selection-start-line="586" selection-start-column="14" selection-end-line="586" selection-end-column="14" />
+          <first_editor relative-caret-position="525">
+            <caret line="504" column="17" lean-forward="true" selection-start-line="504" selection-start-column="17" selection-end-line="504" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day02/plt05.py">
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="65" column="10" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#22#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day02/plt06.py">
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="-823">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/http/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="290" column="6" selection-start-line="290" selection-start-column="6" selection-end-line="290" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/http/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
           <folding>
-            <element signature="e#16#47#0" expanded="true" />
+            <element signature="e#0#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/model/ModelUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/model/SketchCodeModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1716">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/Dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/ImagePreprocessor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/README.md">
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/Note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="242">
+            <caret line="417" column="23" lean-forward="true" selection-start-line="417" selection-start-column="23" selection-end-line="417" selection-end-column="23" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/train.py">
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/text.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="60" column="45" lean-forward="true" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
+        <state relative-caret-position="66">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
           <folding>
-            <element signature="e#22#59#0" expanded="true" />
+            <element signature="e#641#673#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/imgs/toppic01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/imgs/toppic02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/imgs/banner03.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/imgs/b04.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/login.html">
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/imgs/d.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/imgs/b.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/imgs/c.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="153" column="21" lean-forward="true" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/js/blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1357">
-          <caret line="151" column="17" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/blog/mypic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="445">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
