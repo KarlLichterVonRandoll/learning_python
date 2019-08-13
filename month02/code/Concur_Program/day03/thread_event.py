@@ -11,7 +11,7 @@ lock = Lock()
 
 
 def yzr():
-    print("yzr 前来拜山头")
+    print("杨子荣 前来拜山头")
     global s
     s = "天王盖地虎"
     e.set()  # 操作完共享资源， e 设置, 结束阻塞

@@ -2,29 +2,26 @@
     线程锁
 """
 
-from threading import Lock, Thread
+from threading import Thread, Lock
 
 a = b = 0
+lock = Lock()  # 定义锁
 
-lock = Lock()
 
-
-def func():
+def value():
     while True:
-        lock.acquire()
+        lock.acquire()  # 上锁
         if a != b:
-            print("a=", a, "b=", b)
-        lock.release()
+            print("a = %d,b = %d" % (a, b))
+        lock.release()  # 解锁
 
 
-t = Thread(target=func)
+t = Thread(target=value)
 t.start()
-
 while True:
-    with lock:
+    with lock:  # 上锁
         a += 1
         b += 1
+        # 解锁
 
-
-
-
+t.join()
