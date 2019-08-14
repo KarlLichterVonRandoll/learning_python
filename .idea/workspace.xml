@@ -1,31 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="2019.08.12">
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/.idea/mysite1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/Note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/.idea/mysite2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/Note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day03/05-imshow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day04/03-max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day04/04-median.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day04/05-std.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day04/06-dmy2ymd.py" afterDir="false" />
+    <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/images/mtv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/images/mvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/images/template_inherit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/mycal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/mylogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/mytemp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/sport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/.idea/mysite3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/mysite3/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/news/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/sport/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/bookstore_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/bookstore_add_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/http.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/manytomany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/middleware.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/mtv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/mvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/orm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/request_response.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/template_inherit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static/images/urls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/templates/shebao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day04/07-aaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/datascience/day04/08-movemean.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_event.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_lock.py" beforeDir="false" afterPath="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_lock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/03-django/day02/Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day02/Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month05/datascience/day04/06-dmy2ymd.py" beforeDir="false" afterPath="$PROJECT_DIR$/month05/datascience/day04/06-dmy2ymd.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,31 +53,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month03/03-django/day02/Note.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="69" column="42" lean-forward="true" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/month03/03-django/day01/Note.md">
+        <entry file="file://$PROJECT_DIR$/month03/03-django/day03/Note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1647">
-                <caret line="417" column="23" selection-start-line="417" selection-start-column="23" selection-end-line="417" selection-end-column="23" />
+              <first_editor relative-caret-position="253">
+                <caret line="138" column="15" selection-start-line="138" selection-start-column="15" selection-end-line="138" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -91,31 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/month05/datascience/day02/plt05.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day02/plt06.py" />
-        <option value="$PROJECT_DIR$/month03/list.html" />
-        <option value="$PROJECT_DIR$/month03/blog/index.html" />
-        <option value="$PROJECT_DIR$/month03/blog/list.html" />
-        <option value="$PROJECT_DIR$/month03/blog/mypic.html" />
-        <option value="$PROJECT_DIR$/month03/blog/css/style.css" />
-        <option value="$PROJECT_DIR$/month03/blog/js/blog.js" />
-        <option value="$PROJECT_DIR$/month03/blog/select.html" />
-        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/test01.py" />
-        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/Dataset.py" />
-        <option value="$PROJECT_DIR$/month03/MySQL_senior/day01/insert_data.py" />
-        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/ImagePreprocessor.py" />
-        <option value="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/test01.py" />
-        <option value="$PROJECT_DIR$/names.txt" />
-        <option value="$PROJECT_DIR$/numbers.txt" />
-        <option value="$PROJECT_DIR$/001.py" />
-        <option value="$PROJECT_DIR$/month03/MySQL_senior/day02/Note.md" />
-        <option value="$PROJECT_DIR$/month05/datascience/day03/fill01.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day03/bar01.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day03/pie01.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day03/contourf01.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day03/03-pie.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day03/04-contourf.py" />
-        <option value="$PROJECT_DIR$/month05/datascience/day03/05-imshow.py" />
         <option value="$PROJECT_DIR$/month05/datascience/day03/06-3dscatter.py" />
         <option value="$PROJECT_DIR$/month05/datascience/day03/07-3dsurface.py" />
         <option value="$PROJECT_DIR$/month05/datascience/day03/08-wireframe.py" />
@@ -141,7 +115,32 @@
         <option value="$PROJECT_DIR$/month05/datascience/day04/03-max.py" />
         <option value="$PROJECT_DIR$/month05/datascience/day04/04-median.py" />
         <option value="$PROJECT_DIR$/month05/datascience/day04/05-std.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/views.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/settings.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/mylogin.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/mytemp.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/mycal.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/for.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/sport.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/Note.md" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/views.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/news.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/base.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/urls.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day04/07-aaa.py" />
         <option value="$PROJECT_DIR$/month05/datascience/day04/06-dmy2ymd.py" />
+        <option value="$PROJECT_DIR$/month05/datascience/day04/08-movemean.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/mysite3/views.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/templates/shebao.html" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/views.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/urls.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/news/urls.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/news/views.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/sport/views.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/sport/urls.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/mysite3/urls.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/mysite3/settings.py" />
+        <option value="$PROJECT_DIR$/month03/03-django/day03/Note.md" />
       </list>
     </option>
   </component>
@@ -159,7 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,14 +181,14 @@
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month03" type="462c0819:PsiDirectoryNode" />
               <item name="03-django" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="day03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month03" type="462c0819:PsiDirectoryNode" />
               <item name="03-django" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="day03" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -198,19 +196,30 @@
               <item name="m1905" type="462c0819:PsiDirectoryNode" />
               <item name="month03" type="462c0819:PsiDirectoryNode" />
               <item name="03-django" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="day03" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite2" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="m1905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="m1905" type="462c0819:PsiDirectoryNode" />
+              <item name="month03" type="462c0819:PsiDirectoryNode" />
+              <item name="03-django" type="462c0819:PsiDirectoryNode" />
+              <item name="day03" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite3" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/month03/03-django/day03/code/mysite3" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -222,11 +231,11 @@
       <recent name="$PROJECT_DIR$/month03/day03/imgs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/month03/03-django/day03/code/mysite3/static" />
+      <recent name="$PROJECT_DIR$/month03/03-django/day02/code/mysite2" />
       <recent name="$PROJECT_DIR$/month05/datascience/day04" />
       <recent name="$PROJECT_DIR$/month05/datascience/day03" />
       <recent name="$PROJECT_DIR$/month03/MySQL_senior/day01" />
-      <recent name="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset" />
-      <recent name="$PROJECT_DIR$/pyproject/02-sketch-code/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06-dmy2ymd">
+  <component name="RunManager" selected="Python.08-movemean">
     <configuration name="m1905" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,48 +266,6 @@
       <option name="additionalOptions" value="" />
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03-max" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="m1905" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day04/03-max.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="04-median" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="m1905" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day04/04-median.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="05-std" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -343,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="thread_event" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="07-aaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m1905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,11 +318,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month02/code/Concur_Program/day03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_event.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day04/07-aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08-movemean" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="m1905" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month05/datascience/day04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month05/datascience/day04/08-movemean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="m1905" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/settings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,11 +375,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08-movemean" />
         <item itemvalue="Python.06-dmy2ymd" />
+        <item itemvalue="Python.07-aaa" />
+        <item itemvalue="Python.settings" />
         <item itemvalue="Python.05-std" />
-        <item itemvalue="Python.04-median" />
-        <item itemvalue="Python.03-max" />
-        <item itemvalue="Python.thread_event" />
       </list>
     </recent_temporary>
   </component>
@@ -700,7 +709,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565606457714</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2019.08.12">
+      <created>1565660228612</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1565660228612</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TodoView">
@@ -715,13 +731,13 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1373" height="875" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798658" visible="true" weight="0.21719792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798658" visible="true" weight="0.1890289" />
       <window_info id="Structure" order="1" sideWeight="0.50201344" side_tool="true" weight="0.13713862" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" weight="0.30738255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888808" weight="0.36644295" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" weight="0.2147651" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -805,271 +821,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/month01/code/day18/exercise02.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day18/exercise01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day18/note.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month01/code/day08/note.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-726" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/get_pid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/exit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/process01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <folding>
-            <element signature="e#88#116#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/process02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/process03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#22#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/fork03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264" />
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/multiprocessing/queues.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day02/pool.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/queue_0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="e#33#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/pipe.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day01/zongzi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/02-MySQL_senior/day03/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/aapl.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/11-sinc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/10-bubble.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#27#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/09-polar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day03/12-loadtxt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day04/aapl.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day04/01-k.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
-          <folding>
-            <element signature="e#20#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/core/management/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#224#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/RE/day01/Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="504" column="17" lean-forward="true" selection-start-line="504" selection-start-column="17" selection-end-line="504" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-823">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/http/response.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="290" column="6" selection-start-line="290" selection-start-column="6" selection-end-line="290" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/http/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/text.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
-          <folding>
-            <element signature="e#641#673#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="756" column="8" selection-start-line="756" selection-start-column="8" selection-end-line="756" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_lock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/myThread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="e#20#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day03/thread_event.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
@@ -1107,16 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month05/datascience/day04/06-dmy2ymd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/month05/datascience/day04/05-std.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1145,20 +886,151 @@
     <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="69" column="42" lean-forward="true" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+          <folding>
+            <element signature="e#641#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/views.html" />
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/mytemp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/mylogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/mycal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/sport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day05/select_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#112#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month02/code/Concur_Program/day05/poll_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#101#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/templates/for.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="e#641#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day04/07-aaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day04/06-dmy2ymd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/month03/03-django/day01/Note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1647">
+          <first_editor relative-caret-position="8107">
             <caret line="417" column="23" selection-start-line="417" selection-start-column="23" selection-end-line="417" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/Note.md">
+    <entry file="file://$PROJECT_DIR$/month05/datascience/day04/08-movemean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="83" column="3" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/Note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1166,10 +1038,168 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/month03/03-django/day01/code/mysite1/mysite1/views.py">
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="393">
+            <caret line="304" column="7" selection-start-line="304" selection-start-column="7" selection-end-line="304" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="69" column="42" lean-forward="true" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+        <state relative-caret-position="-704">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day02/code/mysite2/mysite2/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="110" column="27" lean-forward="true" selection-start-line="110" selection-start-column="27" selection-end-line="110" selection-end-column="27" />
+          <folding>
+            <element signature="e#20#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/mysite3/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/conf/urls/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/templates/shebao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#33#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/news/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#33#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/sport/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/news/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/sport/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/music/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/mysite3/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#641#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/code/mysite3/mysite3/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1367">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month03/03-django/day03/Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="253">
+            <caret line="138" column="15" selection-start-line="138" selection-start-column="15" selection-end-line="138" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

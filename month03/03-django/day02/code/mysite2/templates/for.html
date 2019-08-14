@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div>
+        <h1>s = {{s | safe}}</h1>
+        <h1>ss = {{ss | truncatechars:'15'}}</h1>
+        <h1>n+2 = {{n | add:"15"}}</h1>
+    </div>
+    <ul>
+        {% for city in lst %}
+        <li>{{forloop.counter}}.{{city}}</li>
+        {% empty %}
+        <li>没有城市</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

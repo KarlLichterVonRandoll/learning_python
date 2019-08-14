@@ -5,7 +5,9 @@ import datetime as dt
 # 转换器函数
 def dmy2wday(dmy):
     dmy = str(dmy, encoding="utf-8")
-    date = dt.datetime.strptime(dmy, "%d-%m-%Y").date()
+    print(dmy)
+    date = dt.datetime.strptime(dmy, "%d-%m-%Y")
+    print(date)
     wday = date.weekday()
     print(wday)
     return wday

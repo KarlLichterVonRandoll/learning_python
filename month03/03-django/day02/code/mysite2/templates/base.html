@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>主页</title>
+</head>
+<body>
+    <h1 style="background:lightblue">注册，登录</h1>
+    {% block  page_info %}
+    <h1 style="background:lightgreen">网站主页</h1>
+    {% endblock %}
+
+    <a href="{% url 'sport' %}">运动页面</a>
+    <a href="{% url 'news' %}">新闻页面</a>
+    <a href="{% url 'pagen' '1' %}">第一页</a>
+    <a href="{% url 'pagen' '2' %}">第二页</a>
+    <h1 style="background:lightgray">联系我们-13833612138</h1>
+</body>
+</html>

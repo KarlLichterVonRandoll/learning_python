@@ -1,4 +1,4 @@
-"""mysite2 URL Configuration
+"""mysite3 URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/1.11/topics/http/urls/
@@ -15,19 +15,14 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
+from django.conf.urls import include
 from . import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^sum', views.sum_view),
+    url(r'^shebao', views.shebao_view),
+    url(r'^music/', include('music.urls')),
+    url(r'^news/', include('news.urls')),
+    url(r'^sport/', include('sport.urls')),
 
-    url(r'^login$', views.login_view),
-    url(r'^login2$', views.login2_view),
-    url(r'^test2$', views.mytemp_view),
-    url(r'^mycal$', views.mycal_view),
-    url(r'test_for', views.for_view),
-    url(r'^$', views.index_view),
-    url(r'^ssss', views.sport_view, name='sport'),
-    url(r'^news', views.news_view, name='news'),
-    url(r'^page(\d+)', views.pagen_view, name='pagen'),
 ]
