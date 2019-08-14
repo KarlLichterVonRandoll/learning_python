@@ -219,7 +219,8 @@
     1. 相比较直接使用SQL语句操作数据库,有性能损失.
     2. 根据对象的操作转换成SQL语句,根据查询的结果转化成对象, 在映射过程中有性能损失.
 - ORM 示意
-    - ![](/home/tarena/m1905/month03/03-django/day03/code/mysite3/static/images/orm.png)
+    - ![img]('https://github.com/KarlLichterVonRandoll/m1905/blob/master/month03/03-django/day03/code/mysite3/static
+    /images/orm.png')
 
 
 2. 模型示例:
