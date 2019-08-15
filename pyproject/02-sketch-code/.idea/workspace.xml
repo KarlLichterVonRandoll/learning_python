@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a52a273-8a05-4788-bb99-45e9c43300c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/templates/bookstore/add_book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/templates/bookstore/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/templates/bookstore/mod.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/mysite4/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/02-sketch-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/dataset/Dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/dataset/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vocabulary.vocab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day03/Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/mysite3/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/mysite3/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/mysite3/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/mysite3/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/news/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/bookstore/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/news/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/news/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/news/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day04/Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/news/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/news/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/news/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/news/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/sport/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/sport/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/sport/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/sport/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/sport/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/sport/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/sport/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day04/code/mysite4/bookstore/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day03/code/mysite3/sport/views.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/dataset/ImagePreprocessor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1914">
+              <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+              <folding>
+                <element signature="e#18#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classes/dataset/Dataset.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/dataset/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/train.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/classes/dataset/Dataset.py" />
+        <option value="$PROJECT_DIR$/src/classes/dataset/__init__.py" />
+        <option value="$PROJECT_DIR$/src/train.py" />
+        <option value="$PROJECT_DIR$/src/__init__.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1373" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="02-sketch-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-sketch-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02-sketch-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-sketch-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a52a273-8a05-4788-bb99-45e9c43300c8" name="Default Changelist" comment="" />
+      <created>1565831906864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565831906864</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1373" height="875" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1971831" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/classes/dataset/img01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/dataset/img01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/dataset/ImagePreprocessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vocabulary.vocab">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/train.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/dataset/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/dataset/Dataset.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -219,8 +219,7 @@
     1. 相比较直接使用SQL语句操作数据库,有性能损失.
     2. 根据对象的操作转换成SQL语句,根据查询的结果转化成对象, 在映射过程中有性能损失.
 - ORM 示意
-    - ![img]('https://github.com/KarlLichterVonRandoll/m1905/blob/master/month03/03-django/day03/code/mysite3/static
-    /images/orm.png')
+    - ![](/home/tarena/m1905/month03/03-django/day03/code/mysite3/static/images/orm.png)
 
 
 2. 模型示例:
@@ -372,4 +371,50 @@
         ```
 - 文档参见:
     - <https://docs.djangoproject.com/en/1.11/ref/models/fields/#field-options>
+    
+- 数据库的迁移文件混乱的解决办法
+    1. 删除 所有 migrations 里所有的 000?_XXXX.py (`__init__.py`除外)
+    2. 删除 数据库
+        - sql> drop database mywebdb;
+    3. 重新创建 数据表
+        - sql> create datebase mywebdb default charset...;
+    4. 重新生成migrations里所有的 000?_XXXX.py
+        - python3 manage.py makemigrations
+    5. 重新更新数据库
+        - python3 manage.py migrate
         
+## 数据库的基本操作
+- 数据库的基本操作包括增删改查操作，即(CRUD操作)
+- CRUD是指在做计算处理时的增加(Create)、读取查询(Read)、更新(Update)和删除(Delete)
+
+### 管理器对象
+- 每个继承自 models.Model 的模型类，都会有一个 objects 对象被同样继承下来。这个对象叫管理器对象
+- 数据库的增删改查可以通过模型的管理器实现
+    ```
+    class MyModel(models.Model):
+        ...
+    MyModel.objects.create(...) # objects 是管理器对象
+    ```
+
+### 创建数据对象
+- Django 使用一种直观的方式把数据库表中的数据表示成Python 对象
+- 创建数据中每一条记录就是创建一个数据对象
+    1. MyModel.objects.create(属性1=值1, 属性2=值1,...)
+        - 成功: 返回创建好的实体对象
+        - 失败: 抛出异常
+    2. 创建 MyModel 实例对象,并调用 save() 进行保存
+        ```
+        obj = MyModel(属性=值,属性=值)
+        obj.属性=值
+        obj.save()
+        无返回值,保存成功后,obj会被重新赋值
+        ```
+        
+### Django shell 的使用
+- 在Django提供了一个交互式的操作项目叫 `Django Shell` 它能够在交互模式用项目工程的代码执行相应的操作
+- 利用 Django Shell 可以代替编写View的代码来进行直接操作
+- 在Django Shell 下只能进行简单的操作，不能运行远程调式
+- 启动方式:
+    ```shell
+    $ python3 manage.py shell
+    ```

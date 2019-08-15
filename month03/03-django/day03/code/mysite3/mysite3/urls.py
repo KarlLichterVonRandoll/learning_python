@@ -22,7 +22,6 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^shebao', views.shebao_view),
     url(r'^music/', include('music.urls')),
-    url(r'^news/', include('news.urls')),
-    url(r'^sport/', include('sport.urls')),
+    url(r'^bookstore/', include('bookstore.urls')),
 
 ]

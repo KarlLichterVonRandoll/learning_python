@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>mod</title>
+</head>
+<body>
+    <form action="/bookstore/mod/{{abook.id}}" method="POST">
+        <div>书名：<input type="text" name="title" value="{{abook.title}}"></div>
+        <div>出版社：<input type="text" name="pub" value="{{abook.pub}}"></div>
+        <div>定价：<input type="text" name="price" value="{{abook.price}}"></div>
+        <div>零售价：<input type="text" name="market_price" value="{{abook.market_price}}"></div>
+        <div><input type="submit" value="提交"></div>
+    </form>
+</body>
+</html>
