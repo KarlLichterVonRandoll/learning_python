@@ -1,4 +1,4 @@
-"""mysite3 URL Configuration
+"""mysite4 URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/1.11/topics/http/urls/
@@ -13,19 +13,11 @@ Including another URLconf
     1. Import the include() function: from django.conf.urls import url, include
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
+from django.conf.urls import include
 from django.conf.urls import url
 from django.contrib import admin
-from django.conf.urls import include
-from . import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^shebao', views.shebao_view),
-    url(r'^music/', include('music.urls')),
-    url(r'^bookstore/', include('bookstore.urls')),
-    url(r'^app01/', include('app01.urls')),
-    # url(r'^app02/', include('app02.urls')),
-    # url(r'^app03/', include('app03.urls')),
-    # url(r'^app04/', include('app04.urls')),
-
+    url(r'bookstore/', include('bookstore.urls'))
 ]
