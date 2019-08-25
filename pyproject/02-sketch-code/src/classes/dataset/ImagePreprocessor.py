@@ -1,5 +1,5 @@
 """
-    数据预处理
+    图片数据预处理
 """
 import os
 import sys
@@ -79,28 +79,28 @@ class ImagePreprocessor:
 
             sample_id = png_file_path[:png_file_path.find(".png")]
 
-            resized_img_arr = self.resize_img(png_path)
+            resized_img_arr = self.resize_img(png_path)  # (256, 256, 3)
             images.append(resized_img_arr)
-            labels.append(sample_id)
+            labels.append(sample_id)  # labels 是对应的文件名
 
         return np.array(images), np.array(labels)
 
     # 图像处理函数
     def resize_img(self, png_file_path):
-        # 读取图片, 返回数组
-        img_rgb = cv2.imread(png_file_path)
+        # 读取图片rgb值, 返回数组
+        img_rgb = cv2.imread(png_file_path)  # (1380, 2400, 3)
         # 将RGB图片转换为灰度图像
-        img_grey = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
+        img_grey = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)  # (1380, 2400)
         # 将图像二值化, 对应值 0 或 255
         img_adapted = cv2.adaptiveThreshold(img_grey, 255, cv2.ADAPTIVE_THRESH_MEAN_C,
-                                            cv2.THRESH_BINARY, 101, 9)
+                                            cv2.THRESH_BINARY, 101, 9)  # (1380, 2400)
 
-        img_stacked = np.repeat(img_adapted[..., None], 3, axis=2)
+        img_stacked = np.repeat(img_adapted[..., None], 3, axis=2)  # (1380, 2400, 3)
 
-        resized = cv2.resize(img_stacked, (200, 200), interpolation=cv2.INTER_AREA)
+        resized = cv2.resize(img_stacked, (200, 200), interpolation=cv2.INTER_AREA)  # (200, 200, 3)
 
         bg_img = 255 * np.ones(shape=(256, 256, 3))
         bg_img[27:227, 27:227, :] = resized
         bg_img /= 255
 
-        return bg_img
+        return bg_img  # (256, 256, 3)

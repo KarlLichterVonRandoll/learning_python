@@ -4,6 +4,7 @@ from django.db import models
 
 # file: user/models.py
 
+
 class User(models.Model):
     username = models.CharField("用户名",
                                 max_length=30,

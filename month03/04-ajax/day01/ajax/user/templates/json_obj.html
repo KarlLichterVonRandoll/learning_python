@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="/static/js/jquery-1.11.3.js"></script>
+</head>
+<body>
+
+    <button onclick="showjson()">showjson</button>
+    <script>
+        function showjson(){
+        /*
+            var obj = {
+            "uname": "zhangqishan",
+            "age": 18,
+            "gender": "male"
+            }
+            console.log("name:"+obj.name);
+            console.log("age:"+obj.age);
+            console.log("gender:"+obj.gender);
+        */
+
+            // 表达多个json对象
+            var json_arr = [
+                {
+                    "uname": "吴邪",
+                    "age": 20,
+                    "nickname": "天真"
+                },
+                {
+                    "uname": "张起灵",
+                    "age": 200,
+                    "nickname": "小哥"
+                },
+                {
+                    "uname": "王胖子",
+                    "age": 30,
+                    "nickname": "胖爷"
+                },
+            ];
+        /*
+            // js 循环多个对象
+            for(var i=0;i<json_arr.length;i++){
+                console.log('name:' + json_arr[i].name);
+                console.log('age:' + json_arr[i].age);
+                console.log('nickname:' + json_arr[i].nickname);
+            }
+        */
+
+        /*
+            // jquery -v1 循环多个对象
+            $(json_arr).each(function(i, obj){
+                console.log('index:' + i);
+                console.log('uname:' + obj.uname);
+                console.log('age:' + obj.age);
+                console.log('nickname:' + obj.nickname);
+            })
+        */
+
+        /*
+            // jquery -v2
+            $.each(json_arr, function(i, obj){
+                console.log('index:' + i);
+                console.log('uname:' + obj.uname);
+                console.log('age:' + obj.age);
+                console.log('nickname:' + obj.nickname);
+            })
+        */
+
+            var json_str = '[{"uname": "lucy","age": 18},{"uname": "胖虎","age": 20}]';
+            console.log(json_str);
+            var json_obj = JSON.parse(json_str);
+            console.log(json_obj);
+
+
+        }
+    </script>
+</body>
+</html>

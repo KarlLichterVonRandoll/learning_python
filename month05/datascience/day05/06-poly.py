@@ -1,7 +1,6 @@
 """
-    协方差
+    多项式拟合：使用多项式函数拟合两只股票bhp、aapl的差价函数
 """
-
 import numpy as np
 import matplotlib.pyplot as plt
 import datetime as dt
@@ -49,36 +48,16 @@ ax.xaxis.set_minor_locator(md.DayLocator())
 # 把dates的数据类型改为matplotlib的日期类型
 dates = dates.astype(md.datetime.datetime)
 
-# 绘制收盘价
-plt.plot(dates, bhp_closing_prices,
-         label='BHP Closing Prices', linewidth=2,
-         color='dodgerblue', linestyle='-')
+# 绘制差价
+diff_prices = bhp_closing_prices - vale_closing_prices
+plt.plot(dates, diff_prices, color='red', alpha=0.4)
 
-# 绘制收盘价
-plt.plot(dates, vale_closing_prices,
-         label='AAPL Closing Prices', linewidth=2,
-         color='orangered', linestyle='-')
-
-# 计算两个股票的协方差
-bhp_mean = np.mean(bhp_closing_prices)
-vale_mean = np.mean(vale_closing_prices)
-# 离差
-d1 = bhp_closing_prices - bhp_mean
-d2 = vale_closing_prices - vale_mean
-cov = np.mean(d1 * d2)
-print(cov)
-
-# 计算相关系数
-s = cov / (np.std(bhp_closing_prices) * \
-           np.std(vale_closing_prices))
-print(s)
-
-# 获取相关性矩阵
-m = np.corrcoef(bhp_closing_prices, vale_closing_prices)
-print(m)
-# 获取协方差矩阵
-cm = np.cov(bhp_closing_prices, vale_closing_prices)
-print(cm)
+# 多项式拟合
+days = dates.astype('M8[D]').astype('int32')
+P = np.polyfit(days, diff_prices, 4)  # 根据一组样本，并给出最高次幂，求出拟合多项式函数
+# 计算每一天的预测值
+y = np.polyval(P, days)
+plt.plot(dates, y, color='green', label='polyfit')
 
 plt.legend()
 plt.gcf().autofmt_xdate()

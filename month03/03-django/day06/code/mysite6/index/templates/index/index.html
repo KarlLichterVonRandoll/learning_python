@@ -8,6 +8,7 @@
     {% if request.session and request.session.user %}
     欢迎：{{ request.session.user.username }}
     <a href="/user/logout">退出登陆</a>
+    <a href="/user/password">修改密码</a>
     {% else %}
     <a href="/user/login">登陆</a>
     <a href="/user/reg">注册</a>

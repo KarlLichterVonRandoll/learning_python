@@ -4,6 +4,8 @@ from django.db import models
 
 # file: note/models.py
 from user.models import User
+# from django.contrib.auth.models import User
+
 
 class Note(models.Model):
     title = models.CharField('标题', max_length=100)

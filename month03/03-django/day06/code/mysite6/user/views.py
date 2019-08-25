@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from django.http import HttpResponseRedirect
+# from django.contrib.auth.models import User
 
 # Create your views here.
 # file: user/views.py
@@ -32,6 +33,24 @@ def reg_view(request):
             return render(request, 'user/register.html',
                           locals())
         # 检查数据库是否已有username这条记录，如果没有则完成注册
+        # try:
+        #     auser = User.objects.get(
+        #         username=username)
+        #     username_error = "用户名已经存在!"
+        #     return render(request, 'user/register.html',
+        #                   locals())
+        # except:
+        #     auser = User.objects.create_superuser(
+        #         username=username,
+        #         password=password1,
+        #         email=""
+        #     )
+        #     html = """注册成功！<a href='/user/login'>
+        #             进入登陆</a>"""
+        #     resp = HttpResponse(html)
+        #     # 添加cookies
+        #     resp.set_cookie("username", username)
+        #     return resp
         try:
             auser = models.User.objects.get(
                 username=username)
@@ -63,6 +82,29 @@ def login_view(request):
             return render(request, 'user/login.html',
                           locals())
         # 处理登陆的逻辑
+        # try:
+        #     auser = User.objects.get(
+        #         username=username
+        #     )
+        #     if auser.check_password(password1):
+        #         # 记录一个登陆状态
+        #         request.session['user'] = {
+        #             'username': username,
+        #             'id': auser.id  # 记录当前用户的id
+        #         }
+        #         resp = HttpResponseRedirect('/')
+        #         if 'remember' in request.POST:  # 选中状态
+        #             resp.set_cookie('username', username)
+        #         return resp
+        #     else:
+        #         password_error = "密码不正确"
+        #         return render(request, 'user/login.html',
+        #                       locals())
+        #         # return HttpResponse("登陆成功")
+        # except:
+        #     password_error = "用户名或密码不正确"
+        #     return render(request, 'user/login.html',
+        #                   locals())
         try:
             auser = models.User.objects.get(
                 username=username, password=password1
@@ -119,3 +161,7 @@ def reg2_view(request):
         else:
             return HttpResponse("注册失败")
 
+
+def password_view(request):
+    if request.method == "GET":
+        return render(request, 'user/password.html', locals())
