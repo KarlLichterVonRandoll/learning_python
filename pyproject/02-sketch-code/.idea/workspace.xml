@@ -2,77 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a52a273-8a05-4788-bb99-45e9c43300c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/uwsgi.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day08/Note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day08/mysite8/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day08/mysite8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day08/mysite8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day08/mysite8/.idea/mysite8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day08/mysite8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day08/mysite8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/03-django/day08/mysite8/mysite8/uwsgi.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/Note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/.idea/ajax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/ajax/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/ajax/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/ajax/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/ajax/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/static/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/static/js/jquery-1.11.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/templates/get-xhr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/templates/getuser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/templates/json_obj.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/templates/makepost.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/templates/xhr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month03/04-ajax/day01/ajax/user/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day05/05-ploy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day05/06-poly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day05/07-ph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day05/bhp.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day05/dia.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day06/01-obv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day06/02-vec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day06/03-vec2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day06/04-matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day06/05-add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day06/06-divide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day06/07-bitwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day06/08-fly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day06/aapl.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../month05/datascience/day07/01-eig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/model/SketchCodeModel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/index/templates/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/index/templates/index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/mysite6/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/mysite6/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/note/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/note/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/user/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/user/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month03/03-django/day06/code/mysite6/user/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../month03/03-django/day06/code/test01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../month05/datascience/day05/04-cov.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../month05/datascience/day05/04-cov.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/dataset/Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/dataset/Dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/dataset/ImagePreprocessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/dataset/ImagePreprocessor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/dataset/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/dataset/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/dataset/img01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/dataset/img01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/dataset/test01.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classes/dataset/ImagePreprocessor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1430">
-              <caret line="65" column="35" lean-forward="true" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+            <state relative-caret-position="1298">
+              <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
               <folding>
                 <element signature="e#20#29#0" expanded="true" />
               </folding>
@@ -94,25 +24,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/classes/dataset/Dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1342">
-              <caret line="61" column="46" lean-forward="true" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+            <state relative-caret-position="649">
+              <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classes/model/SketchCodeModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,7 +117,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/DataScience/test.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../month03/04-ajax" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -258,6 +176,14 @@
       <option name="presentableId" value="Default" />
       <updated>1565831906864</updated>
     </task>
+    <task id="LOCAL-00001" summary="2019-08-25">
+      <created>1566722170907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566722170907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -283,20 +209,15 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019-08-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-08-25" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vocabulary.vocab">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test01.py" />
     <entry file="file://$USER_HOME$/DataScience/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -307,22 +228,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/dataset/ImagePreprocessor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1430">
-          <caret line="65" column="35" lean-forward="true" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
-          <folding>
-            <element signature="e#20#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/dataset/img01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/dataset/img01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/dataset/img01.png" />
+    <entry file="file://$PROJECT_DIR$/src/classes/dataset/img01.jpg" />
     <entry file="file://$PROJECT_DIR$/src/classes/dataset/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -335,22 +242,32 @@
     <entry file="file://$PROJECT_DIR$/src/train.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/dataset/Dataset.py">
+    <entry file="file://$PROJECT_DIR$/src/classes/dataset/ImagePreprocessor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="61" column="46" lean-forward="true" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+        <state relative-caret-position="1298">
+          <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#20#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/model/SketchCodeModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="527">
+          <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/dataset/Dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>

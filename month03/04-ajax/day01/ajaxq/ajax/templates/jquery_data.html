@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="/static/jquery-1.11.3.js"></script>
+</head>
+<body>
+    <button id="btn">get_data</button>
+    <table border="1">
+        <thead>
+        <tr>
+            <th>用户名</th>
+            <th>年龄</th>
+        </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+    </table>
+
+    <script>
+        $(function(){
+
+            $('#btn').click(function(){
+                $.ajax({url:'/ajax/jquery_data_server',
+                        type: 'get',
+                        dataType: 'json',
+                        async: true,
+                        success: function(data){
+                            var html = "";
+                            $.each(data, function(i, obj){
+                                html += "<tr>";
+                                html += "<td>"+obj.name+"</td>";
+                                html += "<td>"+obj.age+"</td>";
+                                html += "</tr>";
+                            })
+                        $('#tbody').html(html);
+                        }
+                })
+            })
+        })
+    </script>
+</body>
+</html>

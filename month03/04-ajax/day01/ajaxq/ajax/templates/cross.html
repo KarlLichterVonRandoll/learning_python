@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <button id="btn">跨域请求</button>
+    <script src="/static/jquery-1.11.3.js"></script>
+    <script>
+        // 跨域用到的预留函数
+        function print(data){
+            console.log('server data is '+ data);
+        }
+
+        $(function(){
+            $('#btn').click(function(){
+                // js原声跨域
+                var body = document.getElementsByTagName("body")[0];
+                var script = document.createElement("script");
+                script.type = 'text/javascript';
+                script.src = 'http://localhost:5000/ajax/cross_server/?callback=print';
+                // 将script标签插入到 body
+                body.append(script);
+            })
+        })
+    </script>
+
+</body>
+</html>
