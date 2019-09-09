@@ -2,197 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cc6e2eb-cf66-4b68-9289-3fec1f09c93a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/month03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app01/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app01/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app01/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app01/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app01/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app01/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app02/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app02/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app02/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app02/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app02/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app02/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app02/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app03/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app03/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app03/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app03/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app03/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app03/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app03/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app04/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app04/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app04/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app04/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app04/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app04/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/app04/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/migrations/0002_auto_20190814_0911.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/migrations/0003_auto_20190814_1039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day03/code/mysite3/bookstore/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore/migrations/0003_auto_20190816_1152.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore/migrations/0004_auto_20190816_1423.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore/migrations/0005_auto_20190816_1546.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore2/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore2/migrations/0002_auto_20190816_1546.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/migrations/0002_auto_20190816_1657.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/migrations/0003_auto_20190816_1657.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/migrations/0004_auto_20190816_1658.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day04/code/mysite4/bookstore3/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day06/code/mysite6/static/files/middleware.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/index/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/index/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/index/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/index/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/index/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/index/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/index/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/index/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/mysite8/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/mysite8/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/mysite8/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/mysite8/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/static/img01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03-django/day08/mysite8/uwsgi.pid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/.idea/04-ajax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajax/user/templates/load_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajax/user/templates/load_test_server.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/.idea/ajaxq.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/templates/cross.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/templates/jquery_ajax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/templates/jquery_data.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/templates/jquery_get.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/templates/jquery_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/templates/load_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/templates/load_test_server.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajax/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajaxq/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajaxq/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajaxq/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/ajaxq/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/day01/ajaxq/static/jquery-1.11.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/jwt_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../04-ajax/tensornn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/blog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/blog/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/blog/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/blog/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/btoken/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/btoken/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/btoken/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/btoken/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/btoken/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/btoken/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/btoken/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/btoken/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/tools/login_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/user/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/user/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/user/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/user/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/user/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/user/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/user/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/user/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REDEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/5794.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/commentPhoto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/page_bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/page_photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/time.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/ckeditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.easyfader.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/scrollReveal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/wangEditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/change_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/gbook.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/list_bak.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/photo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/release.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/time.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../month05/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../month05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../month05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../month05/.idea/month05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../month05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../month05/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../pyproject/02-sketch-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyproject/02-sketch-code/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/migrations/0002_auto_20190902_1437.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/message/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/topic/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reba.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/blog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/btoken/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/btoken/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/tools/login_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/tools/login_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/user/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/user/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/change_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/change_info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -205,8 +37,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flask_client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-176">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="187">
+              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/change_info.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2662">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -214,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+            <state relative-caret-position="418">
+              <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -223,8 +64,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
-              <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+            <state relative-caret-position="410">
+              <caret line="55" column="35" lean-forward="true" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1023">
+              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -232,31 +82,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="121" column="59" selection-start-line="121" selection-start-column="59" selection-end-line="121" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/release.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="-1103">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -267,6 +106,9 @@
         <option value="$PROJECT_DIR$/flask_client.py" />
         <option value="$PROJECT_DIR$/static/js/common.js" />
         <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/cvtest.py" />
+        <option value="$PROJECT_DIR$/templates/change_info.html" />
+        <option value="$PROJECT_DIR$/templates/list.html" />
         <option value="$PROJECT_DIR$/templates/login.html" />
       </list>
     </option>
@@ -296,17 +138,6 @@
             <path>
               <item name="client" type="b2602c69:ProjectViewProjectNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -319,6 +150,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -330,6 +166,34 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="cvtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="client" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cvtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cvtest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -348,12 +212,12 @@
     <frame x="67" y="25" width="1373" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2120089" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17790957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -385,24 +249,10 @@
     <entry file="file://$PROJECT_DIR$/static/images/banner01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/scrollReveal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1782" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/change_info.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/list_bak.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-97" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/header.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/xcConfirm.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -412,13 +262,6 @@
         <state relative-caret-position="-1188" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/release.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -426,31 +269,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/about.html">
+    <entry file="file://$PROJECT_DIR$/cvtest.py" />
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-839" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/release.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/time.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/list_bak.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2508" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flask_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        <state relative-caret-position="187">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/change_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2662">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1103">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1023">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+        <state relative-caret-position="418">
+          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+        <state relative-caret-position="410">
+          <caret line="55" column="35" lean-forward="true" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
         </state>
       </provider>
     </entry>

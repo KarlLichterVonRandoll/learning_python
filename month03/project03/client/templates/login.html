@@ -57,16 +57,13 @@ A ny individuals and organizations and not for commercial use, professiona websi
             if (200 == result.code){
                 window.localStorage.setItem('dnblog_token', result.data.token)
                 window.localStorage.setItem('dnblog_user', result.username)
-                alert('登陆成功');
                 refer_url = document.referrer;
-                console.log(refer_url);
                 //如果是项目内部的请求，回跳到上一步
                 if (refer_url.search('127.0.0.1') != -1){
-
                     window.location = refer_url;
 
                 }else{
-
+                    // 127.0.0.1:5000/username/topics
                     window.location =  '/' + result.username + '/topics';
                 }
 

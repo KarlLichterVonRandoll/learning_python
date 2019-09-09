@@ -28,6 +28,7 @@ A ny individuals and organizations and not for commercial use, professiona websi
     username = window.localStorage.getItem('dnblog_user');
     var url = document.location.toString();
     var query_split = url.split('?');
+    console.log(query_split);
     var query_set = '';
     if(query_split.length > 1){
         query_set = query_split[1];
