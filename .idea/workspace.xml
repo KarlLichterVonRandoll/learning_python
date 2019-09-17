@@ -1,42 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/uwsgi.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day08/Note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day08/mysite8/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day08/mysite8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day08/mysite8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day08/mysite8/.idea/mysite8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day08/mysite8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day08/mysite8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/03-django/day08/mysite8/mysite8/uwsgi.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month03/04-ajax/day01/Note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day05/05-ploy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day05/06-poly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day05/07-ph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day05/bhp.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day05/dia.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day06/01-obv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day06/02-vec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day06/03-vec2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day06/04-matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day06/05-add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day06/06-divide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day06/07-bitwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day06/08-fly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day06/aapl.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month05/datascience/day07/01-eig.py" afterDir="false" />
+    <list default="true" id="73d2967b-9d78-4347-a518-9699e7d25990" name="Default Changelist" comment="2019.09.17">
+      <change afterPath="$PROJECT_DIR$/month03/project03/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/.idea/project03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/media/avatar/b04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/media/avatar/commentPhoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/media/avatar/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/topic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/topic/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/topic/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/topic/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/topic/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/topic/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/topic/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/blog/topic/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/css/comments.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/css/login_reglogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/css/m.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/auicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/author.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/b04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/b05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/banner01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/banner02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/banner03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/bi05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/bitbug_favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/category.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/comments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/date.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/dsbz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/dzbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/newsbg03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/page_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/page_time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/re_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/searchbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/toppic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/toppic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/v1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/v2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/images/zd01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month03/project03/client/static/js/xcConfirm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month04/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month04/.idea/month04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day08/demo01_face.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day08/demo02_ann_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day08/demo03_ann_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day08/demo04_tensorflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day09/demo01_tf01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day09/demo02_tf02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day09/demo03_crossentropy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day09/demo04_moons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day09/demo05_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day09/demo06_mnisttest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day09/mnist/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day09/mnist/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/.ipynb_checkpoints/kmeans-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/.ipynb_checkpoints/movie_recommender-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/.ipynb_checkpoints/movie_recommender02-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/.ipynb_checkpoints/test-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/kmeans.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/kmeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/movie_recommender.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/movie_recommender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/movie_recommender02.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/tag_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/ML/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/basedata/m_all_info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/basedata/m_info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/basedata/m_name.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/basedata/u_score.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/basedata/新建文本文档.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/middata/m_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/middata/tag.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/middata/tag_tabel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/middata/u_idx.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/terdata/u_bool_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month05/AI/day10/movie_rec/terdata/user_tag.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/model/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/index/templates/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/index/templates/index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/mysite6/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/mysite6/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/note/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/note/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/user/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/user/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/month03/03-django/day06/code/mysite6/user/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/month03/03-django/day06/code/test01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/month05/datascience/day05/04-cov.py" beforeDir="false" afterPath="$PROJECT_DIR$/month05/datascience/day05/04-cov.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/Dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/month05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/month05/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +118,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="44">
-                <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+                <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -172,7 +239,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/month03/04-ajax" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -704,9 +771,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1373" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798658" visible="true" weight="0.1682728" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798658" visible="true" weight="0.1682728" />
       <window_info id="Structure" order="1" sideWeight="0.50201344" side_tool="true" weight="0.13713862" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
@@ -716,7 +782,7 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962935" weight="0.2147651" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32885906" />
@@ -754,7 +820,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019.07.02 add tree and sort" />
     <MESSAGE value="2019.07.02 add io 文件操作" />
     <MESSAGE value="2019.07.03 add network" />
     <MESSAGE value="2019.07.04 add tcp udp" />
@@ -779,7 +844,8 @@
     <MESSAGE value="2019.08.14 django" />
     <MESSAGE value="2019.08.15 django" />
     <MESSAGE value="2019.08.20 django" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.08.20 django" />
+    <MESSAGE value="2019.09.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.09.17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -812,9 +878,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../桌面/day06/code/mysite6/note/templates/note/showall.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../桌面/day06/code/mysite6/note/templates/note/showall.html" />
     <entry file="file://$PROJECT_DIR$/month03/03-django/day06/code/mysite6/note/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1138,15 +1202,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/test01.py" />
     <entry file="file://$PROJECT_DIR$/pyproject/02-sketch-code/src/classes/dataset/Dataset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -1168,7 +1224,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
-            <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
